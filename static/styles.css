@@ -1,0 +1,127 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Manrope';
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin: auto;
+    max-width: 55rem;
+    font-weight: 100;
+}
+
+.border-right {
+    border-right: 1px solid white;
+}
+
+.border-left {
+    border-left: 1px solid white;
+}
+
+.border-head {
+    border-top: 1px solid white;
+}
+
+.border-tail {
+    border-bottom: 1px solid white;
+}
+
+.main-container {
+    border: 1px solid white;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    min-width: 25rem;
+}
+
+.nullwave {
+    font-family: 'TiltPrism';
+    font-size: 2.6rem;
+    font-variation-settings: 'HROT' -30, 'VROT' -28;
+    transition: font-variation-settings 0.9s ease;
+    height: 5rem;
+    line-height: 5rem;
+}
+
+.nullwave:hover {
+    font-variation-settings: 'HROT' -30, 'VROT' 29;
+}
+
+.variable-manrope-link {
+    font-family: 'Manrope';
+    font-variation-settings: 'wght' 200;
+    transition: font-variation-settings 1s ease;
+}
+
+.variable-manrope-link:hover {
+    font-variation-settings: 'wght' 800;
+}
+
+.header-link {
+    height: 2.5rem;
+    line-height: 2.5rem;
+}
+
+.article {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.article-image {
+    max-width: 100%;
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.article-title {
+    font-family: 'Manrope';
+    font-variation-settings: 'wght' 600;
+    transition: font-variation-settings 1.5s ease;
+}
+
+.article-title:hover {
+    font-variation-settings: 'wght' 800;
+}
+
+.contributor-name {
+    font-weight: 800;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+}
+
+.contributor-biography {
+    margin-bottom: 0px;
+}
+
+#personal-page-image {
+    max-width: 21rem;
+}
+
+.contributor-image-unstacked {
+    float: left;
+    max-width: 100%;
+    margin-right: 1.5rem;
+}
+
+.contributor-image-stacked {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('assets/fonts/Manrope[wght].woff2') format('woff2');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TiltPrism';
+    src: url('assets/fonts/Tilt-Prism.woff2') format('woff2');
+    font-style: normal;
+}

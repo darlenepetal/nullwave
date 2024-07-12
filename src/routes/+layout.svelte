@@ -2,6 +2,7 @@
 	import Header from './Header.svelte';
 </script>
 
-<Header></Header>
-
-<slot></slot>
+<div class="container-fluid main-container">
+	<Header></Header>
+	<slot></slot>
+</div>

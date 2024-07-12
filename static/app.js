@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    let contributorsLink = document.querySelector('#contributors-link');
+    let writersLink = document.querySelector('#writers-link');
     let essaysLink = document.querySelector('#essays-link');
     let topFirstRow = document.querySelector('#top-first-row');
     let topSecondRow = document.querySelector('#top-second-row');
@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
         essaysLink.style.borderRight = '1px solid white';
 
         if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
-            contributorsLink.style.borderLeft = '0px solid white';
+            writersLink.style.borderLeft = '0px solid white';
         } else {
-            contributorsLink.style.borderLeft = '1px solid white';
+            writersLink.style.borderLeft = '1px solid white';
         }
     }
 
@@ -26,11 +26,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         function checkImageStacking() {
             if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
-                document.getElementById('personal-page-image').classList.add('contributor-image-stacked');
-                document.getElementById('personal-page-image').classList.remove('contributor-image-unstacked');
+                document.getElementById('personal-page-image').classList.add('writer-image-stacked');
+                document.getElementById('personal-page-image').classList.remove('writer-image-unstacked');
             } else {
-                document.getElementById('personal-page-image').classList.add('contributor-image-unstacked');
-                document.getElementById('personal-page-image').classList.remove('contributor-image-stacked');
+                document.getElementById('personal-page-image').classList.add('writer-image-unstacked');
+                document.getElementById('personal-page-image').classList.remove('writer-image-stacked');
             }
         }
     }

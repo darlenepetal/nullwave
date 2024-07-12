@@ -3,7 +3,6 @@
 </script>
 
 <header>
-        <div class="container-fluid main-container">
             <div class="row" style="text-align:center;">
                 <div class="col" id="top-first-row">
                     <a class="nullwave nav-item nav-link" href="/">NULLWAVE.ORG</a> 
@@ -12,19 +11,18 @@
                 <div class="col" id="top-second-row">
                     <div class="row">
                         <div class="col-md col header-link border-head">
-                            <a class="nav-item nav-link variable-manrope-link" href="/">HOME</a>
+                            <a class="nav-item nav-link variable-manrope" href="/">HOME</a>
                         </div>
                         <div class="col-md col header-link border-head" id="essays-link">
-                            <a class="nav-item nav-link variable-manrope-link" href="/essays">ESSAYS</a>
+                            <a class="nav-item nav-link variable-manrope" href="/essays">ESSAYS</a>
                         </div>
                         <div class="col-md col header-link border-head">
-                            <a class="nav-item nav-link variable-manrope-link" href="/videos">VIDEOS</a>
+                            <a class="nav-item nav-link variable-manrope" href="/videos">VIDEOS</a>
                         </div>
-                        <div class="col-md header-link border-head" id="contributors-link">
-                            <a class="nav-item nav-link variable-manrope-link" href="/contributors">CONTRIBUTORS</a>
+                        <div class="col-md header-link border-head" id="writers-link">
+                            <a class="nav-item nav-link variable-manrope" href="/writers">WRITERS</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 </header>

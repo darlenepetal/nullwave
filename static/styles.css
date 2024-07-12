@@ -38,7 +38,7 @@ body {
 
 .nullwave {
     font-family: 'TiltPrism';
-    font-size: 2.6rem;
+    font-size: 3.3rem;
     font-variation-settings: 'HROT' -30, 'VROT' -28;
     transition: font-variation-settings 0.9s ease;
     height: 5rem;
@@ -46,46 +46,49 @@ body {
 }
 
 .nullwave:hover {
-    font-variation-settings: 'HROT' -30, 'VROT' 29;
+    font-variation-settings: 'HROT' -30, 'VROT' 22;
 }
 
-.variable-manrope-link {
-    font-family: 'Manrope';
-    font-variation-settings: 'wght' 200;
-    transition: font-variation-settings 1s ease;
+.variable-manrope {
+    transition: font-variation-settings 0.75s ease;
 }
 
-.variable-manrope-link:hover {
-    font-variation-settings: 'wght' 800;
+.variable-manrope:hover {
+    font-variation-settings: 'wght' 650;
 }
 
 .header-link {
+    font-size: 1.2rem;
+    font-variation-settings: 'wght' 200;
     height: 2.5rem;
     line-height: 2.5rem;
 }
 
 .article {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
 }
 
 .article-image {
     max-width: 100%;
-    margin-top: 0.25rem;
-    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
 }
 
 .article-title {
     font-family: 'Manrope';
-    font-variation-settings: 'wght' 600;
-    transition: font-variation-settings 1.5s ease;
+    height: 1.8rem;
+    font-size: 1.4rem;
+    font-variation-settings: 'wght' 400;
 }
 
-.article-title:hover {
-    font-variation-settings: 'wght' 800;
+.article-author {
+    font-size: 1.2rem;
+    height: 2rem;
+    font-variation-settings: 'wght' 200;
 }
 
-.contributor-name {
+.writer-name {
     font-weight: 800;
     font-size: 2rem;
     text-align: center;
@@ -93,7 +96,7 @@ body {
     margin-bottom: 0.75rem;
 }
 
-.contributor-biography {
+.writer-biography {
     margin-bottom: 0px;
 }
 
@@ -101,13 +104,13 @@ body {
     max-width: 21rem;
 }
 
-.contributor-image-unstacked {
+.writer-image-unstacked {
     float: left;
     max-width: 100%;
     margin-right: 1.5rem;
 }
 
-.contributor-image-stacked {
+.writer-image-stacked {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -116,12 +119,12 @@ body {
 
 @font-face {
     font-family: 'Manrope';
-    src: url('assets/fonts/Manrope[wght].woff2') format('woff2');
+    src: url('fonts/Manrope[wght].woff2') format('woff2');
     font-style: normal;
 }
 
 @font-face {
     font-family: 'TiltPrism';
-    src: url('assets/fonts/Tilt-Prism.woff2') format('woff2');
+    src: url('fonts/Tilt-Prism.woff2') format('woff2');
     font-style: normal;
 }

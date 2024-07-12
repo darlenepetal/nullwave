@@ -38,7 +38,7 @@ body {
 
 .nullwave {
     font-family: 'TiltPrism';
-    font-size: 3.3rem;
+    font-size: 3.25rem;
     font-variation-settings: 'HROT' -30, 'VROT' -28;
     transition: font-variation-settings 0.9s ease;
     height: 5rem;

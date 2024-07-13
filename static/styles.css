@@ -1,7 +1,8 @@
 html {
     font-size: 20px;
-    align-content: center;
-    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
@@ -34,7 +35,7 @@ body {
 
 .main-container {
     border: 1px solid white;
-    min-width: 20em;
+    min-width: 19.5rem;
 }
 
 .nullwave {

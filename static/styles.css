@@ -1,5 +1,5 @@
 html {
-    font-size: calc(15px + 0.25vw);
+    font-size: calc(16px + 0.2vw);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -35,7 +35,7 @@ body {
 .main-container {
     border: 1px solid white;
     min-width: 24rem;
-    max-width: 60rem;
+    max-width: 58rem;
 }
 
 .nullwave {
@@ -70,29 +70,28 @@ body {
     line-height: 1.7rem;
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
-    padding-right: 1.5rem;
-    padding-left: 1.5rem;
 }
 
 .article-image {
+    padding-left: 0rem;
+    padding-right: 0rem;
     max-width: 100%;
     max-height: 25rem;
 }
 
 .article-title {
     font-family: 'Manrope';
+    padding-left: 1rem;
+    padding-right: 1rem;
     font-size: 1.35rem;
     padding-top: 0.4rem;
-    padding-right: 1.5rem;
-    padding-left: 1.5rem;
     font-variation-settings: 'wght' 450;
 }
 
 .article-author {
     font-size: 1.2rem;
-    padding-right: 1.5rem;
-    padding-left: 1.5rem;
-    /* height: 2rem; */
+    padding-left: 1rem;
+    padding-right: 1rem;
     font-variation-settings: 'wght' 200;
 }
 

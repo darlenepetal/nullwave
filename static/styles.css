@@ -1,5 +1,5 @@
 html {
-    font-size: calc(12px + 1vmin);
+    font-size: calc(12px + 0.9vmin);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -35,12 +35,13 @@ body {
 .main-container {
     border: 1px solid white;
     width: fit-content;
-    min-width: 18rem;
+    min-width: 24rem;
 }
 
 .nullwave {
+    line-height: 5rem;
     font-family: 'TiltPrism';
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-variation-settings: 'HROT' -30, 'VROT' -28;
     transition: font-variation-settings 0.9s ease;
     position: relative;

@@ -1,13 +1,14 @@
 html {
     font-size: 20px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 
 body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    
     margin: auto;
     max-width: 55rem;
     font-weight: 100;

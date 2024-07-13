@@ -12,7 +12,7 @@
 	<div class="container-fluid">
 		<div class="row article-title">
 			<a class="nav-item nav-link variable-manrope" href="/essays/slay-the-spire-shed-the-skin">
-				SLAY THE SPIRE SHED THE SKIN SUCK MY TEST
+				SLAY THE SPIRE SHED THE SKIN SUCK MY DICK
 			</a>
 		</div>
 		<div class="row article-author">

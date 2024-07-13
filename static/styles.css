@@ -1,8 +1,8 @@
 html {
     font-size: 20px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: safe center;
+    align-items: safe center;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 .site-padding {
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .border-right {

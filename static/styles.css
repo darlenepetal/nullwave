@@ -34,7 +34,6 @@ body {
 
 .main-container {
     border: 1px solid white;
-    width: fit-content;
     min-width: 24rem;
 }
 

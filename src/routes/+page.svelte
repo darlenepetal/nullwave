@@ -10,12 +10,16 @@
 		</a>
 	</div>
 	<div class="container-fluid">
-		<div class="row"><a class="article-title nav-item nav-link variable-manrope" href="/essays/slay-the-spire-shed-the-skin">
-			SLAY THE SPIRE SHED THE SKIN SUCK MY DICK
-		</a></div>
-		<div class="row"><a class="article-author nav-item nav-link variable-manrope" href="/writers/dahlia-meat">
-			BY DAHLIA MEAT
-		</a></div>
+		<div class="row article-title">
+			<a class="nav-item nav-link variable-manrope" href="/essays/slay-the-spire-shed-the-skin">
+				SLAY THE SPIRE SHED THE SKIN SUCK MY DICK
+			</a>
+		</div>
+		<div class="row article-author">
+			<a class="nav-item nav-link variable-manrope" href="/writers/dahlia-meat">
+				BY DAHLIA MEAT
+			</a>
+		</div>
 		
 	</div>
 </div>

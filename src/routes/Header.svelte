@@ -4,8 +4,10 @@
 
 <header>
     <div class="row" style="text-align:center;">
-        <div class="col" id="top-first-row">
-            <a class="nullwave nav-item nav-link" href="/">NULLWAVE.ORG</a> 
+        <div class="col nullwave" id="top-first-row">
+            <a class="nav-item nav-link" href="/">
+                NULLWAVE.ORG
+            </a> 
         </div>
         <div class="w-100"></div>
         <div class="col" id="top-second-row">

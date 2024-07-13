@@ -8,10 +8,12 @@ body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
     max-width: 55rem;
     font-weight: 100;
+}
+
+.site-padding {
+    padding: 1.5rem;
 }
 
 .border-right {
@@ -32,8 +34,6 @@ body {
 
 .main-container {
     border: 1px solid white;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
     min-width: 20em;
 }
 

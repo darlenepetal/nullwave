@@ -1,5 +1,5 @@
 html {
-    font-size: 20px;
+    font-size: calc(12px + 1vmin);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -9,7 +9,6 @@ body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    max-width: 55rem;
     font-weight: 100;
 }
 
@@ -35,7 +34,8 @@ body {
 
 .main-container {
     border: 1px solid white;
-    min-width: 19.5rem;
+    width: fit-content;
+    min-width: 18rem;
 }
 
 .nullwave {
@@ -81,15 +81,9 @@ body {
     font-family: 'Manrope';
     font-size: 1.3rem;
     padding-top: 0.4rem;
-    padding-right: 1rem;
-    padding-left: 1rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
     font-variation-settings: 'wght' 450;
-}
-
-@container (max-width: 1rem) {
-    .article-title {
-        font-size: 10rem;
-    }
 }
 
 .article-author {

@@ -1,5 +1,5 @@
 html {
-    font-size: calc(12px + 0.9vmin);
+    font-size: calc(12px + 1vmin);
     display: flex;
     justify-content: safe center;
     align-items: safe center;

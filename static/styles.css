@@ -12,6 +12,10 @@ body {
     font-weight: 100;
 }
 
+.hack-image {
+    max-width: 0%;
+}
+
 .site-padding {
     padding: 1rem;
 }
@@ -44,7 +48,6 @@ body {
     font-size: 3.5rem;
     font-variation-settings: 'HROT' -30, 'VROT' -28;
     transition: font-variation-settings 0.9s ease;
-    position: relative;
 }
 
 .nullwave:hover {
@@ -70,6 +73,7 @@ body {
     line-height: 1.7rem;
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
+    text-align: center;
 }
 
 .article-image {

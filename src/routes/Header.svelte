@@ -10,6 +10,8 @@
             </a> 
         </div>
         <div class="w-100"></div>
+        <img class="hack-image" src="/images/essay-images/slay-the-spire-shed-the-skin/sts-nullwave.png" alt="ignore this">
+        <div class="w-100"></div>
         <div class="col" id="top-second-row">
             <div class="row">
                 <div class="col-md col header-link border-head">

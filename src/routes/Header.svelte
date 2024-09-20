@@ -23,8 +23,8 @@
                 <div class="col-md col header-link border-head">
                     <a class="nav-item nav-link variable-manrope" href="/videos">VIDEOS</a>
                 </div>
-                <div class="col-md header-link border-head" id="writers-link">
-                    <a class="nav-item nav-link variable-manrope" href="/writers">WRITERS</a>
+                <div class="col-md header-link border-head" id="creators-link">
+                    <a class="nav-item nav-link variable-manrope" href="/creators">creatorS</a>
                 </div>
             </div>
         </div>

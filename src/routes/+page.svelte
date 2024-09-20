@@ -16,10 +16,12 @@
 			</a>
 		</div>
 		<div class="row article-author">
-			<a class="nav-item nav-link variable-manrope" href="/writers/dahlia-meat">
+			<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
 				BY DAHLIA MEAT
 			</a>
 		</div>
-		
+	</div>
+	<div style="font-size: 0.75rem">
+		IF YOU SAW THIS SENTENCE IN THE 24 HOURS IT WAS ON THE WEBSITE DM ME TO RECEIVE YOUR NULL.POINTS
 	</div>
 </div>

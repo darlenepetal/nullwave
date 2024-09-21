@@ -21,7 +21,6 @@
 			</a>
 		</div>
 	</div>
-	<div style="font-size: 0.75rem">
-		IF YOU SAW THIS SENTENCE IN THE 24 HOURS IT WAS ON THE WEBSITE DM ME TO RECEIVE YOUR NULL.POINTS
+		
 	</div>
 </div>

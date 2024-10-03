@@ -24,7 +24,7 @@
                     <a class="nav-item nav-link variable-manrope" href="/videos">VIDEOS</a>
                 </div>
                 <div class="col-md header-link border-head" id="creators-link">
-                    <a class="nav-item nav-link variable-manrope" href="/creators">creatorS</a>
+                    <a class="nav-item nav-link variable-manrope" href="/creators">CREATORS</a>
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    let writersLink = document.querySelector('#creators-link');
+    let creatorsLink = document.querySelector('#creators-link');
     let essaysLink = document.querySelector('#essays-link');
     let topFirstRow = document.querySelector('#top-first-row');
     let topSecondRow = document.querySelector('#top-second-row');
@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
         essaysLink.style.borderRight = '1px solid white';
 
         if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
-            writersLink.style.borderLeft = '0px solid white';
+            creatorsLink.style.borderLeft = '0px solid white';
         } else {
-            writersLink.style.borderLeft = '1px solid white';
+            creatorsLink.style.borderLeft = '1px solid white';
         }
     }
 

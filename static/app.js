@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    let writersLink = document.querySelector('#writers-link');
+    let writersLink = document.querySelector('#creators-link');
     let essaysLink = document.querySelector('#essays-link');
     let topFirstRow = document.querySelector('#top-first-row');
     let topSecondRow = document.querySelector('#top-second-row');
@@ -26,11 +26,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         function checkImageStacking() {
             if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
-                document.getElementById('personal-page-image').classList.add('writer-image-stacked');
-                document.getElementById('personal-page-image').classList.remove('writer-image-unstacked');
+                document.getElementById('personal-page-image').classList.add('creator-image-stacked');
+                document.getElementById('personal-page-image').classList.remove('creator-image-unstacked');
             } else {
-                document.getElementById('personal-page-image').classList.add('writer-image-unstacked');
-                document.getElementById('personal-page-image').classList.remove('writer-image-stacked');
+                document.getElementById('personal-page-image').classList.add('creator-image-unstacked');
+                document.getElementById('personal-page-image').classList.remove('creator-image-stacked');
             }
         }
     }

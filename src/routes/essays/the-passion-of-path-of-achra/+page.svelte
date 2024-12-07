@@ -1,5 +1,5 @@
 <div class="row border-head article">
-    <p>THE PASSION OF THE PATH OF ACHRA</p>
+    <p>THE PASSION OF PATH OF ACHRA</p>
     <p>BY DAHLIA MEAT</p>
     <p></p>
     <p>i have set a timer for 90 minutes. here goes !!!</p>

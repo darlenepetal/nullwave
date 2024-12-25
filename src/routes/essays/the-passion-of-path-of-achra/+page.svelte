@@ -2,6 +2,12 @@
     <p>THE PASSION OF PATH OF ACHRA</p>
     <p>BY DAHLIA MEAT</p>
     <p></p>
+    <audio controls>
+        <source src="the-passion-of-path-of-achra\FULL_UNEDITED_INTERVIEW.mp3" type="audio/ogg">
+        <source src="the-passion-of-path-of-achra\FULL_UNEDITED_INTERVIEW.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+    <p></p>
     <p>i have set a timer for 90 minutes. here goes !!!</p>
     <p>i have 90 minutes to review path of achra - or, at least, to write this script and upload it. afterward, i may edit it and modify it, but my website has been empty for months upon months and i have yet to receive a diagnosis for ocd because i have spent three months figuring out health insurance because i turned 26 and i needed healtcare asap because adhd, and stimulants do wonders for me to the degree that i havent sought out therapy or any other medication because at least i can work and do all the chores and do all the errands and once i begin the work and the chores and the errands i realize i have no time to do anything else because i spent all my time not doing the work and chores and errands before finally doing the work and chores and errands and my website is empty and i'm attending school 45 miles away from my home because i have one semester left receiving a certain grant before receiving my AA but i haven't gotten the grant for the semester yet and finals are this week and im talking 72 hours from now and im attending school 45 miles away because i moved 55 miles away with one semester left on my AA and they campus is in the same district.</p>
     <p>i interviewed path of achra developer "ulfsire" over five months ago at 10:00 AM PT, sweating buckets in the july heat of a second-story uncooled sunroom as to minimize noise, minutes before driving 40 miles from someone's home that is not my own. i was so scrambled that i fucked up the last moment of my interview. i was writing my parting words while he was giving the most sincere and raw answer of the entire interview. i hardly caught what he said. this was bad active listening, but i was multitasking. i set a deadline for myself for the interview so i could just get it out and not worry about it being fucking perfect. it doesn't need to be perfect. </p>
@@ -42,4 +48,5 @@
     <p>I PROMISE YOU IT FEELS SO GOOD</p>
     <p>I FEEL SO GOOOOOOD</p>
     <p>PATH OF ACHRA IS SOOO GOOD DUUDE, LIKEEE</p>
+    
 </div>

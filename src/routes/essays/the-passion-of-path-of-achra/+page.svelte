@@ -3,8 +3,8 @@
     <p>BY DAHLIA MEAT</p>
     <p></p>
     <audio controls>
-        <source src="the-passion-of-path-of-achra\FULL_UNEDITED_INTERVIEW.mp3" type="audio/ogg">
-        <source src="the-passion-of-path-of-achra\FULL_UNEDITED_INTERVIEW.mp3" type="audio/mp3">
+        <source src="../audio/FULL_UNEDITED_INTERVIEW.mp3" type="audio/ogg">
+        <source src="../audio/FULL_UNEDITED_INTERVIEW.mp3" type="audio/mp3">
         Your browser does not support the audio element.
     </audio>
     <p></p>

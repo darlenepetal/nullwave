@@ -3,9 +3,14 @@
     <p>BY DAHLIA MEAT</p>
     <p></p>
     <audio controls>
-        <source src="../audio/FULL_UNEDITED_INTERVIEW.mp3" type="audio/ogg">
-        <source src="../audio/FULL_UNEDITED_INTERVIEW.mp3" type="audio/mp3">
-        Your browser does not support the audio element.
+        <iframe title="frame" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1993996035&color=%230a0a0a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+        </iframe>
+        <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+            <a href="https://soundcloud.com/null-skin" title="null.skin" target="_blank" style="color: #cccccc; text-decoration: none;">null.skin</a>
+            <a href="https://soundcloud.com/null-skin/the-passion-of-path-of-achra-unedited-developer-interview" title="THE PASSION OF PATH OF ACHRA - UNEDITED DEVELOPER INTERVIEW" target="_blank" style="color: #cccccc; text-decoration: none;">
+                THE PASSION OF PATH OF ACHRA - UNEDITED DEVELOPER INTERVIEW
+            </a>
+        </div>
     </audio>
     <p></p>
     <p>i have set a timer for 90 minutes. here goes !!!</p>

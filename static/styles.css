@@ -1,5 +1,5 @@
 html {
-    font-size: calc(17px + 0.2vw);
+    font-size: calc(18px + 0.3vw);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -9,11 +9,11 @@ body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    font-weight: 333;
+    font-weight: 108;
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 .hack-image {

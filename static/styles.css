@@ -1,5 +1,5 @@
 html {
-    font-size: calc(16px + 0.2vw);
+    font-size: calc(17px + 0.2vw);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -9,7 +9,11 @@ body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    font-weight: 100;
+    font-weight: 333;
+}
+
+h1 {
+    font-size: 3rem;
 }
 
 .hack-image {
@@ -17,7 +21,7 @@ body {
 }
 
 .site-padding {
-    padding: 15px;
+    padding: 20px;
 }
 
 .border-right {
@@ -71,6 +75,7 @@ body {
 
 .article {
     line-height: 1.7rem;
+    padding: 2.2rem;
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
     text-align: center;

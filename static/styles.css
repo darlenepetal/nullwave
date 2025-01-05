@@ -1,5 +1,5 @@
 html {
-    font-size: calc(18px + 0.3vw);
+    font-size: calc(21px);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -9,7 +9,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Manrope';
-    font-weight: 108;
+    font-weight: 300;
 }
 
 h1 {
@@ -75,7 +75,7 @@ h1 {
 
 .article {
     line-height: 1.7rem;
-    padding: 2.2rem;
+    padding: calc(1.5rem + 1vw);
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
     text-align: center;

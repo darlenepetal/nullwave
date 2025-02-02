@@ -42,7 +42,7 @@ h1 {
 
 .main-container {
     border: 1px solid white;
-    min-width: 24rem;
+    min-width: 25rem;
     max-width: 58rem;
 }
 
@@ -74,34 +74,38 @@ h1 {
 }
 
 .article {
-    font-size: calc(0.9rem + 0.3vw);
-    line-height: calc(1.7rem + 0.4vw);
     padding: calc(1.5rem + 1vw);
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
     text-align: center;
 }
 
+.article-body {
+    line-height: calc(1.7rem + 0.4vw);
+    font-size: calc(0.9rem + 0.3vw);
+}
+
 .article-image {
     padding-left: 0.25rem;
     padding-right: 0.25rem;
     max-width: 100%;
-    max-height: 25rem;
+    max-height: 26rem;
 }
 
 .article-title {
+    font-size: calc(1rem + 1vw);
     font-family: 'Manrope';
-    padding-left: 1rem;
-    padding-right: 1rem;
-    font-size: 1.35rem;
-    padding-top: 0.4rem;
+    padding: 1rem;
+    padding-top: 0;
+    padding-bottom: 0;
     font-variation-settings: 'wght' 450;
 }
 
 .article-author {
-    font-size: 1.2rem;
+    font-size: calc(1rem + 0.5vw);
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-top: -0.25rem;
     font-variation-settings: 'wght' 200;
 }
 

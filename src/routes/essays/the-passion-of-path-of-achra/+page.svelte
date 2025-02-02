@@ -1,5 +1,9 @@
+<svelte:head>
+	<title>THE PASSION OF PATH OF ACHRA</title>
+	<meta name="THE PASSION OF PATH OF ACHRA BY DAHLIA MEAT" content="AN ATTEMPT AT A BEGINNING" />
+</svelte:head>
 <div class="row border-head">
-    <div class="article">
+    <div class="article article-body">
         <p></p>
         <h1>THE PASSION OF PATH OF ACHRA</h1>
         <h5>BY DAHLIA MEAT</h5>

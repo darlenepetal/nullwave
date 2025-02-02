@@ -1,5 +1,5 @@
 html {
-    font-size: calc(21px);
+    font-size: 20px;
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -74,7 +74,8 @@ h1 {
 }
 
 .article {
-    line-height: 1.7rem;
+    font-size: calc(0.9rem + 0.3vw);
+    line-height: calc(1.7rem + 0.4vw);
     padding: calc(1.5rem + 1vw);
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;

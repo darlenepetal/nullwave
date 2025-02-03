@@ -1,5 +1,5 @@
 html {
-    font-size: 19px;
+    font-size: calc(15px + 0.2vw);
     display: flex;
     justify-content: safe center;
     align-items: safe center;
@@ -10,6 +10,7 @@ body {
     color: white;
     font-family: 'Manrope';
     font-weight: 300;
+    overflow-y: scroll;
 }
 
 h1 {
@@ -42,14 +43,14 @@ h1 {
 
 .main-container {
     border: 1px solid white;
-    min-width: 24rem;
+    min-width: 22rem;
     max-width: 58rem;
 }
 
 .nullwave {
-    line-height: 5rem;
+    line-height: calc(4rem + 0.8vw);
     font-family: 'TiltPrism';
-    font-size: 3.5rem;
+    font-size: calc(3.3rem + 0.8vw);
     font-variation-settings: 'HROT' -30, 'VROT' -28;
     transition: font-variation-settings 0.9s ease;
 }
@@ -74,15 +75,16 @@ h1 {
 }
 
 .article {
-    padding: calc(1.5rem + 1vw);
     padding-top: 0.9rem;
     padding-bottom: 0.7rem;
     text-align: center;
 }
 
 .article-body {
-    line-height: calc(1.7rem + 0.4vw);
-    font-size: calc(0.9rem + 0.3vw);
+    padding: calc(0.5rem + 3.5vw);
+    padding-top: 1vw;
+    line-height: calc(1.7rem + 0.5vw);
+    font-size: calc(1rem + 0.25vw);
 }
 
 .article-image {
@@ -93,11 +95,8 @@ h1 {
 }
 
 .article-title {
-    font-size: calc(1rem + 1vw);
+    font-size: calc(1.1rem + 0.75vw);
     font-family: 'Manrope';
-    padding: 1rem;
-    padding-top: 0;
-    padding-bottom: 0;
     font-variation-settings: 'wght' 450;
 }
 

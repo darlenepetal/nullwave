@@ -6,7 +6,7 @@
 <div class="row border-head article">
 	<div class="col">
 		<a class="nav-item nav-link" href="/essays/the-passion-of-path-of-achra">
-			<img class="article-image" src="/images/essay-images/the-passion-of-path-of-achra/nullachra.png" alt="path of achra artwork">
+			<img class="article-thumbnail" src="/images/essay-images/the-passion-of-path-of-achra/nullachra.png" alt="path of achra artwork">
 		</a>
 	</div>
 	<div class="container-fluid">

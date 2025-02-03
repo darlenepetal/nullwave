@@ -88,7 +88,15 @@ h1 {
     font-size: calc(1rem + 0.25vw);
 }
 
-.article-image {
+.article-screenshot {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    max-width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.article-thumbnail {
     padding-left: 0.25rem;
     padding-right: 0.25rem;
     max-width: 100%;

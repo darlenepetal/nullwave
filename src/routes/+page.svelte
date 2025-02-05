@@ -9,7 +9,7 @@
 			<img class="article-thumbnail" src="/images/essay-images/the-passion-of-path-of-achra/nullachra.png" alt="path of achra artwork">
 		</a>
 	</div>
-	<div class="container-fluid">
+	<div>
 		<div class="row article-title">
 			<a class="nav-item nav-link variable-manrope" href="/essays/the-passion-of-path-of-achra">
 				THE PASSION OF PATH OF ACHRA

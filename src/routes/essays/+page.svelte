@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>ESSAYS</title>
-	<meta name="description" content="TEST???" />
+	<meta name="description" content="ESSAYS" />
 </svelte:head>
 <div class="row border-head">
 	<div class="col-6" style="padding: 0;">
@@ -12,7 +12,6 @@
 		<div class="container">
 			<div class="row essays-title">
 				<a class="nav-item nav-link variable-manrope" href="/essays/the-passion-of-path-of-achra">
-					<!-- I I I I I I I I I I I I I I I I I I I I I I I I I -->
 					THE PASSION OF<br>PATH OF ACHRA
 				</a>
 			</div>

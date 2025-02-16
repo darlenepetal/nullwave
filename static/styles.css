@@ -3,11 +3,6 @@ html {
     display: flex;
     justify-content: safe center;
     align-items: safe center;
-    zoom: 100%;
-}
-
-:root {
-    --zoom: 1.0;
 }
 
 body {
@@ -96,7 +91,6 @@ h1 {
 .article-thumbnail-small {
     align-items: start;
     max-width: 100%;
-    /* max-height: 10rem; */
     padding: 0;
     margin: 0;
 }
@@ -141,16 +135,13 @@ h1 {
 
 .essays-title {
     font-size: max(min(calc(4.5vw - 2.925px), 51.825px), 17.325px);
-    /* font-size: max(calc(min(calc(4.5vw - 2.925px), 51.825px)), 1rem); */
     padding-top: 0.1em;
-    /* font-size: min(calc(5vw - 4.8px), 56px); */
     line-height: 1em;
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
 }
 
 .essays-author {
-    /* margin-top: max(-vw, -6px); */
     font-size: max(min(calc(3.2vw - 2.08px), 36.853px), 12.32px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 300;

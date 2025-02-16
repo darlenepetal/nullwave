@@ -142,13 +142,13 @@ h1 {
 }
 
 .essays-author {
-    font-size: max(min(calc(3.2vw - 2.08px), 36.853px), 12.32px);
+    font-size: max(min(calc(2.7vw - 1.755px), 31.095px), 10.395px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 300;
 }
 
 .essays-quote {
-    padding-top: 0.5em;
+    padding-top: 0.7em;
     font-size: max(min(calc(2.7vw - 1.755px), 31.095px), 10.395px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 300;

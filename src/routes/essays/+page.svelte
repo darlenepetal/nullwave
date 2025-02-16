@@ -8,17 +8,21 @@
 			<img class="article-thumbnail-small" src="/images/essay-images/the-passion-of-path-of-achra/nullachra.png" alt="path of achra artwork">
 		</a>
 	</div>
-	<div class="col">
-		<div class="container essays">
+	<div class="col essays">
+		<div class="container">
 			<div class="row essays-title">
 				<a class="nav-item nav-link variable-manrope" href="/essays/the-passion-of-path-of-achra">
-					THE PASSION OF <br> PATH OF ACHRA
+					<!-- I I I I I I I I I I I I I I I I I I I I I I I I I -->
+					THE PASSION OF<br>PATH OF ACHRA
 				</a>
 			</div>
 			<div class="row essays-author">
 				<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
 					BY DAHLIA MEAT
 				</a>
+			</div>
+			<div class="row essays-quote">
+				"LIKE RETURNING TO SCHOOL FOR THE FIRST TIME IN FIVE YEARS"
 			</div>
 		</div>
 	</div>

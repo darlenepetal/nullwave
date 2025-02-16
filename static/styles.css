@@ -136,15 +136,15 @@ h1 {
 }
 
 .essays-title {
-    font-size: min(4vw, 48.5px);
+    font-size: min(calc(5vw - 4.8px), 56px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
 }
 
 .essays-author {
-    font-size: min(2.75vw, 33px);
+    font-size: min(2.5vw, 30.5px);
     font-family: 'Manrope';
-    font-variation-settings: 'wght' 400;
+    font-variation-settings: 'wght' 300;
 }
 
 .creator-name {

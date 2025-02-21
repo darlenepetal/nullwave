@@ -18,6 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    var currentYear = new Date().getFullYear();
+    document.getElementById('currentYear').textContent = currentYear;
+
     let personalPageImage = document.getElementById('personal-page-image');
 
     if (personalPageImage !== null) {

@@ -18,23 +18,23 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    var currentYear = new Date().getFullYear();
-    document.getElementById('currentYear').textContent = currentYear;
+    // var currentYear = new Date().getFullYear();
+    // document.getElementById('currentYear').textContent = currentYear;
 
-    let personalPageImage = document.getElementById('personal-page-image');
+    // let personalPageImage = document.getElementById('personal-page-image');
 
-    if (personalPageImage !== null) {
-        window.addEventListener('load', checkImageStacking, false);
-        window.addEventListener('resize', checkImageStacking, false);
+    // if (personalPageImage !== null) {
+    //     window.addEventListener('load', checkImageStacking, false);
+    //     window.addEventListener('resize', checkImageStacking, false);
 
-        function checkImageStacking() {
-            if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
-                document.getElementById('personal-page-image').classList.add('creator-image-stacked');
-                document.getElementById('personal-page-image').classList.remove('creator-image-unstacked');
-            } else {
-                document.getElementById('personal-page-image').classList.add('creator-image-unstacked');
-                document.getElementById('personal-page-image').classList.remove('creator-image-stacked');
-            }
-        }
-    }
+    //     function checkImageStacking() {
+    //         if (topFirstRow.offsetHeight - topSecondRow.offsetHeight <= 0) {
+    //             document.getElementById('personal-page-image').classList.add('creator-image-stacked');
+    //             document.getElementById('personal-page-image').classList.remove('creator-image-unstacked');
+    //         } else {
+    //             document.getElementById('personal-page-image').classList.add('creator-image-unstacked');
+    //             document.getElementById('personal-page-image').classList.remove('creator-image-stacked');
+    //         }
+    //     }
+    // }
 });

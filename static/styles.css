@@ -1,8 +1,8 @@
 html {
-    font-size: min(calc(11px + 1.2vw), 20px);
+    font-size: clamp(16.25px, calc(11px + 1.2vw), 20px);
     display: flex;
     justify-content: safe center;
-    align-items: safe center;
+    /* align-items: safe center; */
 }
 
 body {
@@ -43,7 +43,7 @@ h1 {
 
 .main-container {
     border: 1px solid white;
-    min-width: 22rem;
+    min-width: 23.9rem;
     max-width: 58rem;
     margin-bottom: 9rem;
 }
@@ -91,6 +91,8 @@ h1 {
 .article-thumbnail-small {
     align-items: start;
     max-width: 100%;
+    /* min-height: 105px; */
+    min-width: 186.75px;
     padding: 0;
     margin: 0;
 }
@@ -130,26 +132,26 @@ h1 {
 
 .essays {
     text-align: left;
-    padding: min(2vw, 24.3333px);
+    padding: clamp(7.65px, calc(1.7vw), 20.666px);
 }
 
 .essays-title {
-    font-size: max(min(calc(4.5vw - 2.925px), 51.825px), 17.325px);
-    padding-top: 0.1em;
+    font-size: clamp(17.325px, calc(4.5vw - 2.925px), 51.825px);
+    padding-top: 0.09em;
     line-height: 1em;
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
 }
 
 .essays-author {
-    font-size: max(min(calc(2.7vw - 1.755px), 31.095px), 10.395px);
+    font-size: clamp(10.395px, calc(2.7vw - 1.755px), 31.095px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 300;
 }
 
 .essays-quote {
     padding-top: 0.7em;
-    font-size: max(min(calc(2.7vw - 1.755px), 31.095px), 10.395px);
+    font-size: clamp(10.395px, calc(2.7vw - 1.755px), 31.095px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 300;
 }
@@ -168,6 +170,12 @@ h1 {
 
 #personal-page-image {
     max-width: 21rem;
+}
+
+.creator-thumbnail-small {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .creator-image-unstacked {

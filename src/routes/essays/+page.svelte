@@ -3,7 +3,7 @@
 	<meta name="description" content="ESSAYS" />
 </svelte:head>
 <div class="row border-head">
-	<div class="col-6" style="padding: 0;">
+	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/the-passion-of-path-of-achra">
 			<img class="article-thumbnail-small" src="/images/essay-images/the-passion-of-path-of-achra/nullachra.png" alt="path of achra artwork">
 		</a>

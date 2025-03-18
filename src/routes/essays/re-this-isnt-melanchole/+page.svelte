@@ -20,15 +20,18 @@
         <p>my mom got this phone for free when she switched providers. it's small like my sister's ipod touch i briefly had in freshman year until mom found out i was talking to adult men on kik.</p>
         <p>then that tablet, that shitty tablet, friction-sticky plastic screen, i had to wash it with soap if i used it while eating an apple or an orange. the puzzle unlock alarm that got me out of bed at 6 AM, placing it at the opposite corner of the room so i can't crawl back into bed.</p>
         <p>sitting on the cold porcelain tub in the dark under hot water. that scored, coarse porcelain that brings about the same sensation against my shaven ass that my shaven arms do against that one kind of desk at school. i wear long sleeves just in case i accidentally sit at that kind of desk.</p>
+        <img class="article-screenshot" src="/images/essay-images/re-this-isnt-melanchole/nullearth4.png" alt="google earth screenshot">
         <p>im a gay, autistic, lonely, anxious boy secretly failing high school.</p>
         <p>im more interested in "writing" than half of these classes. every day i obsessively "co-write" stories of happy gay boys with other closeted queer teenagers on the internet. characters from cartoons, anime, or our own creations. the closest thing i have felt to human connection.</p>
         <p>i don't have any other queer friends. ive never had a girlfriend that i didn't fear. i was sexually traumatized in middle school. i might have been sexually traumatized as a child.</p>
+        <img class="article-screenshot" src="/images/essay-images/re-this-isnt-melanchole/nullearth1.png" alt="google earth screenshot">
         <p>im not coping with becoming an adult. it's slowly sinking in that i don't want to grow up anymore.</p>
         <p>i am slowly watching my eagerness to take charge of my own life dissipate. im realizing i didn't have much of a childhood. im realizing how much i missed out on.</p>
         <p>i sit in that bathtub for half an hour under the hot water. i shave my entire body for reasons i don't entirely understand with razors that are not mine. they're dull and cut me everywhere.</p>
         <p>my eyes are closed and small sections of my body sting. my pillow is wet from my hair and my timer is set. i have another fifteen minutes before i bike two miles to school.</p>
         <p>i can get up the 100 ft incline over the freeway without shifting gears, now. zack called me a faggot because i couldn't stand up on my bike and make it all the way up the hill. he had a mountain bike and the tires of my bmx bike are deflated to probably 20 psi.</p>
         <p>i stopped walking up that hill because i had never challenged myself to do anything. getting a mountain bike will make that hill trivial.</p>
+        <img class="article-screenshot" src="/images/essay-images/re-this-isnt-melanchole/nullearth5.png" alt="google earth screenshot">
         <p>i need to get out of bed eventually.</p>
         <p>celeste introduced me to The Front Bottoms and i got into Modern Baseball and Turnover and TV Girl and Say Hi To Your Mom and Johnny Hobo and the Freight Trains and i discovered there was so much music on the internet that i was completely unaware of. it wasn't edgy and polished in the same ways that my childhood bands were, Linkin Park, System of a Down, Rise Against, Green Day, Sum 41.</p>
         <p>this music is personal and rough around the edges and personal and in two years i will create my own indie singer/songwriter record label and splice cassette tapes and make pinback buttons for musicians i met or reached out to and worked with and upload the most watched diy cassette tutorial on youtube.</p>
@@ -49,6 +52,7 @@
         <p>three years from now i will nearly purchase a rare cassette of this album for $200 on discogs before deciding not to.</p>
         <p>the album is meek and sensitive and authentic and anxious and immature and i resonate with it for those noisy reasons.</p>
         <p>eleven years in the future i will wear a black skirt and long black socks to my thighs and black boots and black eyeliner, and underneath a torn black mesh top i will wear a black/red infinite wrench tshirt that smells like one of the several girls i kiss that was a boy when i was a boy.</p>
+        <img class="article-screenshot" src="/images/essay-images/re-this-isnt-melanchole/nullearth2.png" alt="google earth screenshot">
         <p>early in the morning, ill listen to the first salvia palth album in over a decade, and drink iced coffee in my black sedan parked at the garden she works at and write about the memories that flood in when i think of "melanchole" by salvia plath in a similar early-rise fugue state that i am experiencing in this bed with my wet hair at fifteen years old.</p>
         <p>a fugue state similar to the one i will feel on my bike pedaling violently up that hill and past that graveyard and managing my breathing and ignoring the pain and liking the pain and the burning feeling in my chest and in my thighs with faggoty emo music in my ears.</p>
         <p>nothing could adequately replicate these feelings. no assemblage of words or stories or lyrics or chords could make me feel truly feel like i did when i was a child.</p>
@@ -60,6 +64,7 @@
         <p>"last chance to see" is not an album that wants to be fifteen again.</p>
         <p>i don't want this album to be "melanchole" because i don't want to be fifteen again.</p>
         <p>the timer goes off and i leave my house</p>
+        <img class="article-screenshot" src="/images/essay-images/re-this-isnt-melanchole/nullearth3.png" alt="google earth screenshot">
         <br><br>
     </div>
 </div>

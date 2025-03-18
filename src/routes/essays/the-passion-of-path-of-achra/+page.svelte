@@ -1,6 +1,8 @@
 <svelte:head>
 	<title>THE PASSION OF PATH OF ACHRA</title>
-	<meta name="THE PASSION OF PATH OF ACHRA BY DAHLIA MEAT" content="AN ATTEMPT AT A BEGINNING" />
+	<meta name="THE PASSION OF PATH OF ACHRA" content="AN ATTEMPT AT A BEGINNING" />
+    <meta property="og:description" content="LIKE RETURNING TO SCHOOL FOR THE FIRST TIME IN FIVE YEARS">
+    <meta property="og:image" content="https://null.skin/images/essay-images/the-passion-of-path-of-achra/nullachra.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">

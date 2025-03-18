@@ -1,6 +1,8 @@
 <svelte:head>
 	<title>re: this isn't melanchole</title>
-	<meta name="re: this isn't melanchole BY DAHLIA MEAT" content="it's something else" />
+	<meta name="re: this isn't melanchole" content="it's something else" />
+    <meta property="og:description" content="'last chance to see' is not an album that wants to be fifteen again.">
+    <meta property="og:image" content="https://null.skin/images/essay-images/re-this-isnt-melanchole/nulllastchancethick.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">

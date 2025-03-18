@@ -1,6 +1,7 @@
 <svelte:head>
 	<title>re: this isn't melanchole</title>
 	<meta name="re: this isn't melanchole" content="it's something else" />
+    <meta property="og:title" content="re: this isn't melanchole">
     <meta property="og:description" content="'last chance to see' is not an album that wants to be fifteen again.">
     <meta property="og:image" content="https://null.skin/images/essay-images/re-this-isnt-melanchole/nulllastchancethick.png">
 </svelte:head>

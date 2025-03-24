@@ -137,7 +137,7 @@ h1 {
 
 .essays-title {
     font-size: clamp(17.325px, calc(4.5vw - 2.925px), 51.825px);
-    padding-top: 0.09em;
+    padding-top: 0.05em;
     line-height: 1em;
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
@@ -158,15 +158,31 @@ h1 {
 
 .creators {
     text-align: left;
-    padding: clamp(7.65px, calc(1.7vw), 20.666px);
+    padding: clamp(7.65px, calc(1.7vw - 1.105px), 20.666px);
+    padding-left: clamp(1px, calc(3vw - 1.95px), 34.5833px);
 }
 
 .creator-name {
-    font-weight: 800;
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 0.25rem;
-    margin-bottom: 0.75rem;
+    font-size: clamp(1px, calc(5vw - 3.25px), 57.7px);
+    padding-top: 0.05rem;
+    font-family: 'Manrope';
+    font-variation-settings: 'wght' 400;
+    line-height: clamp(0px, 0.9em, 51.7667px);
+}
+
+.creator-details {
+    font-size: clamp(1px, calc(3vw - 1.95px), 34.5833px);
+    padding-top: clamp(0px, 0.05em, 2.8733px);
+    font-family: 'Manrope';
+    font-variation-settings: 'wght' 400;
+    line-height: 1.2em;
+}
+
+.creator-quote {
+    padding-top: 0.5em;
+    font-size: clamp(10.395px, calc(2.7vw - 1.755px), 31.1617px);
+    font-family: 'Manrope';
+    font-variation-settings: 'wght' 300;
 }
 
 .creator-biography {
@@ -178,9 +194,12 @@ h1 {
 }
 
 .creator-thumbnail-small {
-    width: 100%;
+    border-right: solid;
+    border-color: white;
+    border-width: 1px;
+    max-width: 100%;
     padding: 0;
-    margin: 0;
+    /* margin: clamp(1px, calc(2vw - 1.3px), 23px); */
 }
 
 .creator-image-unstacked {

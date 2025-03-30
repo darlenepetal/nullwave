@@ -16,8 +16,8 @@
 				</a>
 			</div>
 			<div class="row essays-author">
-				<a class="nav-item nav-link variable-manrope" href="/creators/prettybird">
-					BY PRETTYBIRD
+				<a class="nav-item nav-link variable-manrope" href="/creators/tess">
+					BY TESS
 				</a>
 			</div>
 			<div class="row essays-quote">

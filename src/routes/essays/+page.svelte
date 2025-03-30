@@ -12,7 +12,7 @@
 		<div class="container">
 			<div class="row essays-title">
 				<a class="nav-item nav-link variable-manrope" href="/essays/re-this-isnt-melanchole">
-					re: this isn't melanchole
+					re: this isn't<br>melanchole
 				</a>
 			</div>
 			<div class="row essays-author">

@@ -130,6 +130,10 @@ h1 {
     font-variation-settings: 'wght' 300;
 }
 
+.article-link {
+    font-variation-settings: 'wght' 300;
+}
+
 .essays {
     text-align: left;
     padding: clamp(7.65px, calc(1.7vw), 20.666px);

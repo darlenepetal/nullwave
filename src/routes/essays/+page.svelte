@@ -2,7 +2,7 @@
 	<title>ESSAYS</title>
 	<meta name="description" content="ESSAYS" />
 </svelte:head>
-<div class="row border-head">
+<!-- <div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/rules-for-pornsick-dovahkiin">
 			<img class="article-thumbnail-small" src="/images/essay-images/rules-for-pornsick-dovahkiin/rfpsdnull.png" alt="wireframe art of a girl in bondage">
@@ -25,7 +25,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/re-this-isnt-melanchole">

@@ -5,9 +5,9 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <h1>RULES FOR PORNSICK DOVAHKIIN</h1>   
+        <h1 style="margin: 0;">RULES FOR PORNSICK DOVAHKIIN</h1>   
         <h3><i>an installation manual</i></h3>
-        <div style="margin: 0;" class="row article-author">
+        <div class="row article-author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/tess">
 				by tess
 			</a>

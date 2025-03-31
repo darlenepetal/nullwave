@@ -1,6 +1,9 @@
 <svelte:head>
 	<title>RULES FOR PORNSICK DOVAHKIIN</title>
-	<meta name="RULES FOR PORNSICK DOVAHKIIN by prettybird" content="TODO" />
+    <meta name="RULES FOR PORNSICK DOVAHKIIN by tess" content="a guide" />
+    <meta property="og:title" content="RULES FOR PORNSICK DOVAHKIIN">
+    <meta property="og:description" content="Do not reflect on your actions for even one second until you are done.">
+    <meta property="og:image" content="https://null.skin/images/essay-images/rules-for-pornsick-dovahkiin/rfpsdnull.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">

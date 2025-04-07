@@ -123,10 +123,10 @@ h1 {
 
 .article-author {
     font-size: min(calc(0.5rem + 2vw), 30px);
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-bottom: -0.1rem;
-    margin-top: -0.5rem;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: -0.1em;
+    margin-top: -0.5em;
     font-variation-settings: 'wght' 300;
 }
 

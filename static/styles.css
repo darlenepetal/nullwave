@@ -115,14 +115,14 @@ h1 {
 }
 
 .article-title {
-    padding-top: 0.25rem;
-    font-size: min(calc(0.7rem + 2.5vw), 39px);
+    padding-top: 0.1em;
+    font-size: clamp(22.4px, calc(0.7rem + 2.5vw), 39px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
 }
 
 .article-author {
-    font-size: min(calc(0.5rem + 2vw), 30px);
+    font-size: clamp(17px, calc(0.5rem + 2vw), 30px);
     padding-left: 1em;
     padding-right: 1em;
     margin-bottom: -0.1em;

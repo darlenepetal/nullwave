@@ -98,11 +98,12 @@ h1 {
 }
 
 .article-body {
-    padding: min(calc(0.75rem + 3vw), 50px);
-    padding-top: min(1vw, 0.3rem);
+    padding: clamp(25.3px, calc(0.75rem + 3vw), 50px);
+    padding-top: clamp(4.366px, 1vw, 0.3rem);
     padding-bottom: 0.5rem;
-    line-height: min(calc(1.8rem + 0.5vw), 30px);
-    font-size: min(calc(1rem + 0.25vw), 20px);
+    line-height: clamp(27.47px, calc(1.65rem + 0.15vw), 34.81px);
+    /* line-height: clamp(28px, calc(1.7rem + 0.15vw), 38px); */
+    font-size: clamp(16.5px, calc(0.949rem + 0.25vw), 22px);
     word-spacing: 1px;
 }
 

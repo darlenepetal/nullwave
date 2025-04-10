@@ -116,7 +116,7 @@ h1 {
 }
 
 .article-title {
-    padding-top: 0.1em;
+    margin-top: 0.25em;
     font-size: clamp(22.4px, calc(0.7rem + 2.5vw), 39px);
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;

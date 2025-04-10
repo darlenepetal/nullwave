@@ -8,7 +8,7 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <h1>THE PASSION OF PATH OF ACHRA</h1>
+        <h1 style="padding-top:0.75rem">THE PASSION OF PATH OF ACHRA</h1>
         <div class="row article-author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
 				BY DAHLIA MEAT

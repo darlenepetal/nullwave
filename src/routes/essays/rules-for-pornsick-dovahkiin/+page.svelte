@@ -8,8 +8,8 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <h1 style="margin: 0;">RULES FOR PORNSICK DOVAHKIIN</h1>   
-        <h3><i>a guide</i></h3>
+        <h1 style="margin: 0; padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</h1>   
+        <h3 style="margin-top: -0.25em; margin-bottom: 0.5em;"><i>a guide</i></h3>
         <div class="row article-author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/tess">
 				by tess

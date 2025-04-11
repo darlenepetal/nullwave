@@ -8,11 +8,11 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <h1 style="margin: 0; padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</h1>   
-        <h3 style="margin-top: -0.15em;"><i>a guide</i></h3>
+        <h1 style="padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</h1>   
+        <h3 style="margin-top: -0.35em;"><i>A GUIDE</i></h3>
         <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/tess">
-				by tess
+				BY TESS
 			</a>
 		</div>
         <div class="row article-date">

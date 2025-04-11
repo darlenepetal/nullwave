@@ -8,7 +8,7 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <h1 style="padding-top:0.75rem">re: this isn't melanchole</h1>
+        <div class="title" style="padding-top:0.75rem">re: this isn't melanchole</div>
         <div class="row">
 			<a class="nav-item nav-link variable-manrope author" href="/creators/dahlia-meat">
 				BY DAHLIA MEAT

@@ -9,7 +9,7 @@
     <div class="article article-body">
         <p></p>
         <h1 style="margin: 0; padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</h1>   
-        <h3 style="margin-top: -0.2em;"><i>a guide</i></h3>
+        <h3 style="margin-top: -0.15em;"><i>a guide</i></h3>
         <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/tess">
 				by tess

@@ -141,8 +141,6 @@ h3 {
     padding-left: 1em;
     padding-right: 1em;
     font-variation-settings: 'wght' 300;
-    text-align: center;
-    justify-content: center;
 }
 
 .article-link {
@@ -153,6 +151,7 @@ h3 {
     margin-top: -0.1rem;
     font-size: 0.75em;
     justify-content: center;
+    text-align: center;
 }
 
 .essays {

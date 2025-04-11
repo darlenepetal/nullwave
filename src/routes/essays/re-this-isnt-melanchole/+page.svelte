@@ -9,11 +9,14 @@
     <div class="article article-body">
         <p></p>
         <h1 style="padding-top:0.75rem">re: this isn't melanchole</h1>
-        <div class="row article-author">
+        <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
 				BY DAHLIA MEAT
 			</a>
 		</div>
+        <div class="row article-date">
+            March 18, 2025
+        </div>
         <br>
         <iframe title="frame" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2841515077/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/track=4148832302/transparent=true/" seamless><a href="https://salviapalth.bandcamp.com/album/last-chance-to-see">last chance to see by salvia palth</a></iframe>
         <br><br>

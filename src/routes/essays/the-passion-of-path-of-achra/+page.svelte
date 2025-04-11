@@ -9,11 +9,14 @@
     <div class="article article-body">
         <p></p>
         <h1 style="padding-top:0.75rem">THE PASSION OF PATH OF ACHRA</h1>
-        <div class="row article-author">
+        <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
 				BY DAHLIA MEAT
 			</a>
 		</div>
+        <div class="row article-date">
+            February 2, 2025
+        </div>
         <br>
         <iframe title="frame" width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1993996035&color=%230a0a0a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
         </iframe>

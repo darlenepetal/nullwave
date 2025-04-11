@@ -17,6 +17,10 @@ h1 {
     font-size: 2.5rem;
 }
 
+h3 {
+    font-size: 2rem;
+}
+
 .hack-image {
     max-width: 0%;
 }
@@ -131,8 +135,22 @@ h1 {
     font-variation-settings: 'wght' 300;
 }
 
+.author {
+    font-size: 1.5rem;
+    margin-top: -0.45rem;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-variation-settings: 'wght' 300;
+}
+
 .article-link {
     font-variation-settings: 'wght' 300;
+}
+
+.article-date {
+    margin-top: -0.1rem;
+    font-size: 0.75em;
+    justify-content: center;
 }
 
 .essays {

@@ -141,6 +141,8 @@ h3 {
     padding-left: 1em;
     padding-right: 1em;
     font-variation-settings: 'wght' 300;
+    text-align: center;
+    justify-content: center;
 }
 
 .article-link {

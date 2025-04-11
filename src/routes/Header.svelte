@@ -3,6 +3,9 @@
 </script>
 
 <header>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <div class="row" style="text-align:center;">
         <div class="col nullwave" id="top-first-row">
             <a class="nav-item nav-link" href="/">

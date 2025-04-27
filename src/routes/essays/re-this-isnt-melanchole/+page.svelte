@@ -54,7 +54,7 @@
         <p>i will collect hundreds of 7"s and 10"s and 12"s and LPs and EPs and singles and splits and label samplers and cassettes and cds until they become sickeningly independent creations printed with inkjet hardware that probably belonged to their parents just like i will eventually do for my first cassette run.</p>
         <p>this passion will almost entirely replace my obsessive need for attention from adult men and teenage girls that pretend to be gay teenage boys on the internet with me, but it will carry forward into becoming a writer.</p>
         <p>that passion is building in my wet head on this pillow in the bedroom i grew up in. </p>
-        <p>i am listening to my favorite song off "melanchole" by salvia palth: reprise (reprise). the song lulls me and makes me uncomfortable. it makes me want to cry and it makes me want to smile and exhale.</p>
+        <p>i am listening to my favorite song off "melanchole" by salvia palth: reprise (reprise). the song lulls me and makes me uncomfortable. it makes me want to cry and it makes me want to smile and breathe out all the air in my lungs and hang there for a couple moments. it's hypnotizing</p>
         <p>three years from now i will nearly purchase a rare cassette of this album for $200 on discogs before deciding not to.</p>
         <p>the album is meek and sensitive and authentic and anxious and immature and i resonate with it for those noisy reasons.</p>
         <p>eleven years in the future i will wear a black skirt and long black socks to my thighs and black boots and black eyeliner, and underneath a torn black mesh top i will wear a black/red infinite wrench tshirt that smells like one of the several girls i kiss that was a boy when i was a boy.</p>

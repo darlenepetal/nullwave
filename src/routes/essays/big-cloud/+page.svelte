@@ -3,7 +3,7 @@
 	<meta name="BIG CLOUD" content="hi momo" />
     <meta property="og:title" content="BIG CLOUD">
     <meta property="og:description" content="don't rain down">
-    <meta property="og:image" content="TODO: IMAGE">
+    <meta property="og:image" content="https://null.skin/images/essay-images/big-cloud/nullbigcloud.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">
@@ -17,7 +17,7 @@
         <div class="row article-date">
             May 30, 2025
         </div>
-        <br>
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud.png" alt="gankoukeikei">
         <p>"it's all coming full circle!"</p>
         <p>we don't remember exactly where this phrase became a "prayer."</p>
         <p>we are, all of us, however many there are that make up me, the body writing this, every part, all at once. </p>
@@ -62,7 +62,7 @@
         <p>babies are screaming already. it actually started right when i said "hey, welcome back."</p>
         <p>im going to turn on one of the few albums saved to my phone and we're going to talk i guess. </p>
         <p>you wanna listen to mezzanine? let's listen to mezzanine for a bit ..</p>
-        <p>TO-DO: MEZZANINE LINK</p>
+        <p><iframe title="frame" style="border-radius:12px" src="https://open.spotify.com/embed/album/49MNmJhZQewjt06rpwp6QR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
         <p>first track is on. i have to piss like a racehorse! it's your wedding day...</p>
         <p>i had a wonderful week. we spent a week with momo. for those who don't know what momo is: </p>
         <p>TODO: IMAGE</p>

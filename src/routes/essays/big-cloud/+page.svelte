@@ -17,7 +17,7 @@
         <div class="row article-date">
             May 30, 2025
         </div>
-        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud.png" alt="gankoukeikei">
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud01.png" alt="gankoukeikei">
         <p>"it's all coming full circle!"</p>
         <p>we don't remember exactly where this phrase became a "prayer."</p>
         <p>we are, all of us, however many there are that make up me, the body writing this, every part, all at once. </p>
@@ -65,11 +65,11 @@
         <p><iframe title="frame" style="border-radius:12px" src="https://open.spotify.com/embed/album/49MNmJhZQewjt06rpwp6QR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
         <p>first track is on. i have to piss like a racehorse! it's your wedding day...</p>
         <p>i had a wonderful week. we spent a week with momo. for those who don't know what momo is: </p>
-        <p>TODO: IMAGE</p>
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud02.png" alt="nengemishou">
         <p>get a clue!</p>
         <p>i don't have the albums downloaded that i will be talking about, because i came up with the idea to write this half an hour ago.</p>
         <p>doesn't this song rock? has it "dropped" for you? oh man, is this essay about vampire the masquerade bloodlines?</p>
-        <p>TODO: IMAGE </p>
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud04.png" alt="vtmbl nullified artwork">
         <p>to understand this: play vampire the masquerade bloodlines for about an hour or so! that's all you really need. come back when you're done. ill wait! go ahead, actually, finish the album. you know what? set a timer for one hour. that's about how long for me to listen to the entirety of mezzanine by massive attack.</p>
         <p>oh no, is this essay gonna suck? </p>
         <p>LET'S FIND OUT!</p>
@@ -122,8 +122,8 @@
         <p>alright, let's talk! </p>
         <p>we learned about clouds this weekend</p>
         <p>we wrote a poem once for a person we liked that loved clouds. we thought about that poem a lot this week, because momo likes clouds!</p>
-        <p>we thought of the poem again as the plane took off. overcast ohio sky stratus (TODO; SPELL CHECK). quickly became milky soft undercast. oh man, milky!! milky is an awesome cat. for those that don't know about milky:</p>
-        <p>TODO: MILKY</p>
+        <p>we thought of the poem again as the plane took off. overcast ohio sky stratocumulus (?) quickly became milky soft undercast. oh man, milky!! milky is an awesome cat. for those that don't know about milky:</p>
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud03.png" alt="gankoukeikei">
         <p>get real! get a grip! check it out. that's milky. i wonder... i wonder what she will look like when she...</p>
         <p>hi momo. </p>
         <p>:) </p>
@@ -233,7 +233,7 @@
         <p>GASP! </p>
         <p>YOU'RE SINKING IN QUICKSAND! </p>
         <p>『Hold your breath and count to 60…』</p>
-        <p>口 SURVIVE THE QUICKSAND [0/60])</p>
+        <p>口 SURVIVE THE QUICKSAND [?/60])</p>
         <p>---------</p>
         <p>todo: approaching the last part of group 4</p>
         <p>---------</p>
@@ -375,7 +375,7 @@
         <p>say hi to tofu...</p>
         <p>his bandaid was in momo's clothes! </p>
         <p>they're married... he has a beautiful ring </p>
-        <p>TODO: picture</p>
+        <img class="article-screenshot" src="/images/essay-images/big-cloud/nullbigcloud05.png" alt="gankoukeikei">
         <p>kiss and play </p>
         <p>momo knocks over its juice</p>
         <p>mama was making momo drink juice because its body was feeling strange </p>

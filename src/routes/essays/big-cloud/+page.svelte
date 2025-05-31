@@ -11,7 +11,7 @@
         <div class="title" style="padding-top:0.75rem">BIG CLOUD</div>
         <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
-				BY DAHLIA MEAT
+				BY DIDI
 			</a>
 		</div>
         <div class="row article-date">

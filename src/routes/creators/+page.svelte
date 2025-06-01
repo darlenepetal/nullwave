@@ -5,14 +5,14 @@
 <div class="row border-head">
 	<div class="d-flex col-3 align-self-center" style="padding:0;">
 		<a class="nav-item nav-link" href="/creators/dahlia-meat">
-			<img class="creator-thumbnail-small" src="/images/creator-images/dahlia-meat.png" alt="test">
+			<img class="creator-thumbnail-small" src="/images/creator-images/dahlia-meat.png" alt="sigil">
 		</a>
 	</div>
 	<div class="d-flex col align-self-center creators">
 		<div class="container">
 			<div class="row creator-name">
 				<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
-					DAHLIA MEAT
+				DAHLIA MEAT
 				</a>
 			</div>
 			<div class="row creator-details">

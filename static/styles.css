@@ -190,6 +190,7 @@ body {
 .creator-name {
     font-size: clamp(18.65px, calc(5vw - 3.25px), 57.7px);
     padding-top: 0.05rem;
+    padding-bottom: 0.05rem;
     font-family: 'Manrope';
     font-variation-settings: 'wght' 400;
     line-height: clamp(16.78px, 0.9em, 51.7667px);

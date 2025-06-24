@@ -80,7 +80,6 @@
         <p>If you don’t already know, the way you kill a bobcat in a trap is to lower a little noose over its neck and strangle it. You don’t want bullet holes in the fur.</p>
         <p>I remember hesitating and not keeping the noose pulled tight enough, long enough, so the cat would wake up almost immediately and thrash in her cage. I remember how many times I fucked up tying my belt so it let loose from the ceiling fan. I remember how, when I came out to my parents, I tried to push my dad out of the way so I could reach for his gun. I remember washing the fur, shampooing it, conditioning it, so that way when the hide was sold it would sell for a high value.</p>
         <p>I have not been in a snuff film. I have no scars. I know my dad would prefer to hang me, to preserve the skin and forget the flesh.</p>
-        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
         <p>Scars are these tiny calcified masses, these numb little balls that rub against the rest of the hide and flesh. My lover has scars in her back from a past passion that I’ll rub almost daily to calm the surrounding tissue.</p>
         <p>“bodies” is a favorite that doesn’t talk about scars:</p>
         <i><p>I'm not scared to die
@@ -104,6 +103,7 @@
         <p>I met my lover before I knew I was trans. I’ve turned into a completely different person several times over the course of our relationship. I don’t know what she was expecting, but she has been with me ever since. In the time my lover’s been with me, I’ve learned myself. I’ve shown my ribs to others in front of her, and, lately, I’ve grown numb, and it’s hurt her.</p>
         <p>I’ve felt numb to life, even lately, with the stability and comfort that comes with adulthood and a decent job. I’ve slowed myself down, and only recently started to move faster. I have finally started taking hormones to further my transition.</p>
         <p>You take off your clothes long enough, and the cold seeps in. You don’t want to leave a gutted deer out in the elements long enough or the meat will spoil. You either take the meat off the bone quick or you don’t pull the trigger.</p>
+        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
         <p>I’ve almost died more than a few times since I met my lover. Not all of them were entirely my fault, but most of them were. I fantasized quite openly in the same way Kelly writes about suicide. I’ve written bad poems in the same vein, glorifying and trying to find some beautiful value in my own death to the concern of everyone who knows me.</p>
         <p>Kelly and I share something else in that we’ve both tried to share that value with someone.</p>
         <p>From “bodies”:</p>

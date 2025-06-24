@@ -21,7 +21,7 @@
         <iframe title="frame" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=781553695/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://birdsfeardeath.bandcamp.com/album/livestream-death-compilation">livestream death compilation by birds fear death</a></iframe>
         <br><br>
         <p>Birds Fear Death is the noise punk project and musical alias of Kelly Wilhite.</p>
-        <p>“pretty girl snuff film” is their most popular song, which introduced me to BFD. The song is about outside perspectives an omniscient “they,” who begs the singer to commit suicide.</p>
+        <p>“pretty girl snuff film” is their most popular song, which introduced me to BFD. The song is about outside perspectives, an omniscient “they” begging the singer to commit suicide.</p>
         <p>The song is a thrust of a knife wasting no time getting to the groaning, blasted-out vocals. At first, I couldn’t make out the lyrics outside of the last, repeating refrain:</p>
         <i><p>I WRITE MY NOTE, WE'RE NOT ALONE
         <br>GO OUT COME HOME, AND THEY ALL SAY

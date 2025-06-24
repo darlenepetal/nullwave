@@ -17,7 +17,11 @@
         <div class="row article-date">
             June 23, 2025 TODO
         </div>
-        <br>
+        <p></p>
+        - - - - - - - - - - - - - - - - - -
+        <i><div style="font-size: 0.9rem; margin-top:0.5em; margin-bottom:0.5em; padding:0;">(foreword: hello, this is dahlia meat of null.skin. we've received kind words from people saying "i loved the skyrim piece you wrote" referencing the prior essay "RULES FOR PORNSICK DOVAHKIIN." i did not write that piece; Tess did. this website is home to my work and the work of others. i am busy working on some larger-scope projects, so i am delighted to present the following essay. Cat, a member of the community, submitted a draft for this piece three weeks ago. we're really impressed with her writing and how easy it was to work with her.)</div></i>
+        - - - - - - - - - - - - - - - - - -
+        <p style="margin:2rem;"></p>
         <iframe title="frame" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=781553695/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://birdsfeardeath.bandcamp.com/album/livestream-death-compilation">livestream death compilation by birds fear death</a></iframe>
         <br><br>
         <p>Birds Fear Death is the noise punk project and musical alias of Kelly Wilhite.</p>
@@ -41,8 +45,8 @@
         <br>There lays my body, staring you in the face
         <br>Don’t blush when I rip apart my skin, you know I look better
         <br>When you have full view of my ribs</p></i>
-        <p>Kelly has experience with music, obviously, so I don’t really understand what it’s like to experience the laughter and whispering from people behind the stage.I understand this: truth is found in the space between hide and flesh where the fat lays bare, exposed to tingling cold air, as some voyeur seeks understanding while they stare dumbfounded, their breath coating and contaminating the meat.</p>
-        <p>My parents took me hunting when I was a kid. I remember them and I pulling triggers, aiming at animals through scopes. That part was fun, although not too distinguishable from shooting clay pigeons or static targets. After trigger-pulling came the search, where you look for little clues that would key you in on where to find meat. I loved finding little specks of blood on grass. Finding it pooled in one location, or, worse, splattered into chunks on the mountainside, would shock me.</p>
+        <p>Kelly has experience with music, obviously, so I don’t really understand what it’s like to experience the laughter and whispering from people behind the stage. I understand this: truth is found in the space between hide and flesh where the fat lays bare, exposed to tingling cold air, as some voyeur seeks understanding while they stare dumbfounded, their breath coating and contaminating the meat.</p>
+        <p>My parents took me hunting when I was a kid. I remember all of us pulling triggers, aiming at animals through scopes. That part was fun, although not too distinguishable from shooting clay pigeons or static targets. After trigger-pulling came the search, where you look for little clues that would key you in on where to find meat. I loved finding little specks of blood on grass. Finding it pooled in one location, or, worse, splattered into chunks on the mountainside, would shock me.</p>
         <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd1null.png" alt="child with their face obscured posing with a rifle in front of a dead antelope, it is all white lines on black, blending into the website">
         <p>I remember seeing the meat, the deer, in whatever position it would end in. I thanked the animal for its meat, in the way that I saw some video game protagonist once do. My parents would find this odd, treat the corpse callously, teach me to poke the eyes with sticks till they rupture. They would teach me to gut the deer, to rend organs from flesh, to leave it in neat piles for the coyotes. I’d always see ribs from the inside first. I remember, sometimes, my dad would pepper the flesh before the hide was even removed. I remember the warmth. I remember staring dumbfounded at the ribs.</p>
         <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd2null.png" alt="">

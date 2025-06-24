@@ -18,10 +18,6 @@
             June 23, 2025 TODO
         </div>
         <p></p>
-        - - - - - - - - - - - - - - - - - -
-        <i><div style="font-size: 0.9rem; margin-top:0.5em; margin-bottom:0.5em; padding:0;">(foreword: hello, this is dahlia meat of null.skin. we've received kind words from people saying "i loved the skyrim piece you wrote" referencing the prior essay "RULES FOR PORNSICK DOVAHKIIN." i did not write that piece; Tess did. this website is home to my work and the work of others. i am busy working on some larger-scope projects, so i am delighted to present the following essay. Cat, a member of the community, submitted a draft for this piece three weeks ago. we're really impressed with her writing and how easy it was to work with her.)</div></i>
-        - - - - - - - - - - - - - - - - - -
-        <p style="margin:2rem;"></p>
         <iframe title="frame" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=781553695/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://birdsfeardeath.bandcamp.com/album/livestream-death-compilation">livestream death compilation by birds fear death</a></iframe>
         <br><br>
         <p>Birds Fear Death is the noise punk project and musical alias of Kelly Wilhite.</p>
@@ -49,7 +45,6 @@
         <p>My parents took me hunting when I was a kid. I remember all of us pulling triggers, aiming at animals through scopes. That part was fun, although not too distinguishable from shooting clay pigeons or static targets. After trigger-pulling came the search, where you look for little clues that would key you in on where to find meat. I loved finding little specks of blood on grass. Finding it pooled in one location, or, worse, splattered into chunks on the mountainside, would shock me.</p>
         <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd1null.png" alt="child with their face obscured posing with a rifle in front of a dead antelope, it is all white lines on black, blending into the website">
         <p>I remember seeing the meat, the deer, in whatever position it would end in. I thanked the animal for its meat, in the way that I saw some video game protagonist once do. My parents would find this odd, treat the corpse callously, teach me to poke the eyes with sticks till they rupture. They would teach me to gut the deer, to rend organs from flesh, to leave it in neat piles for the coyotes. I’d always see ribs from the inside first. I remember, sometimes, my dad would pepper the flesh before the hide was even removed. I remember the warmth. I remember staring dumbfounded at the ribs.</p>
-        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd2null.png" alt="">
         <p>My mother started drinking again after I came out as trans. She’d come into my room at midnight, keep me up until 3 in the morning asking questions, poking and prodding to find some vulnerabilities where she could try to talk me out of it, to get something to break.</p>
         <p>I gave her everything, every little detail, trying to explain every single facet of my life in the hopes that, if only she could read my mind, she’d get it.</p>
         <p>Here! This is my flesh, can you see it move? Do you understand how it works now? Am I real yet?</p>
@@ -85,6 +80,7 @@
         <p>If you don’t already know, the way you kill a bobcat in a trap is to lower a little noose over its neck and strangle it. You don’t want bullet holes in the fur.</p>
         <p>I remember hesitating and not keeping the noose pulled tight enough, long enough, so the cat would wake up almost immediately and thrash in her cage. I remember how many times I fucked up tying my belt so it let loose from the ceiling fan. I remember how, when I came out to my parents, I tried to push my dad out of the way so I could reach for his gun. I remember washing the fur, shampooing it, conditioning it, so that way when the hide was sold it would sell for a high value.</p>
         <p>I have not been in a snuff film. I have no scars. I know my dad would prefer to hang me, to preserve the skin and forget the flesh.</p>
+        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
         <p>Scars are these tiny calcified masses, these numb little balls that rub against the rest of the hide and flesh. My lover has scars in her back from a past passion that I’ll rub almost daily to calm the surrounding tissue.</p>
         <p>“bodies” is a favorite that doesn’t talk about scars:</p>
         <i><p>I'm not scared to die
@@ -94,7 +90,7 @@
         <br>Whenever I wake up I feel like
         <br>Something should be missing</p></i>
         <p>So many of my memories flood over me, these little torrents of blood gushing out of the arteries. I try not to remember anymore, and in some ways I can’t realize just how much I forget.</p>
-        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
+        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd2null.png" alt="">
         <p>I try not to remember the bobcats, the deer, the elk, and I also forget important dates. I forget to start dinner, I forget to schedule my doctor appointments, I forget birthdays, I forget who’s turn it is to do what chore. I try to calcify my memories and stop them from flowing. I don’t know how to calm the surrounding tissue.</p>
         <p>“Anorexia song” speaks about the space between the scars:</p>
         <i><p>The angel that watches over me

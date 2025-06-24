@@ -55,7 +55,7 @@
         <p>The last time I visited my family was for my brother’s graduation. I saw the looks on people’s faces, and I cast myself into the corners. I let my secret slip to another mother of mine, my god-mom, who adopted me before my parents died.</p>
         <p>She asked a million questions, asked a million more a few days after. I showed my ribs again. This time I think she actually understood, but I’ll never know. It’s tiring.</p>
         <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd4null.png" alt="">
-        <p>I know the meat isn’t rotten, but I don’t know who I can convince. This dynamic is always so one sided, why am I the only one forced to strip myself down to bone?</p>
+        <p>I know the meat isn’t rotten, but I don’t know who I can convince. This dynamic is always so one-sided, why am I the only one forced to strip myself down to bone?</p>
         <p>“fucking love song” by Birds Fear Death is another favorite of mine due to their other repeated refrain:</p>
         <i><p>Taking off my clothes
         <br>Taking off my clothes
@@ -118,10 +118,10 @@
         <p>I’m not sure what dynamic Kelly has with this other figure, but I know it’s something I would have liked to hear this at my worst. I like this acceptance, this embrace of agency. My lover didn’t.</p>
         <p>I wanted permission to go and was denied. I wanted to spoil, to stop showing my ribs, to let the meat rot, and was denied. I asked for permission.</p>
         <p>Kelly expressed something similar in “do you still believe in god?”:</p>
-        <p>Will you still love me when I come back to haunt you?</p>
-        <p>Will you text me back when you watch my body fall?</p>
-        <p>Will you draw hearts in my yearbook memorial?</p>
-        <p>Do you still believe in god?</p>
+        <i><p>Will you still love me when I come back to haunt you?
+        <br>Will you text me back when you watch my body fall?
+        <br>Will you draw hearts in my yearbook memorial?
+        <br>Do you still believe in god?</p></i>
         <p>These are bids, these are little requests of reassurance, these are all the same statement and question.</p>
         <p>“I’m going to leave soon, how badly will this hurt you?”</p>
         <p>I don’t know how to soothe the people around me. I don’t know how to stop this calcified mass of self from hurting others. I didn’t know how to stop taking off my clothes, from showing my ribs, from making another snuff film of myself.</p>

@@ -1,7 +1,7 @@
 <svelte:head>
 	<title>BIRDS FEAR DEATH AND SO WILL I</title>
-    <meta name="BIRDS FEAR DEATH AND SO WILL I by Cat" content="TODO" />
-    <meta property="og:title" content="BIRDS FEAR DEATH AND SO DO I">
+    <meta name="BIRDS FEAR DEATH AND SO WILL I by cat" content="TODO" />
+    <meta property="og:title" content="BIRDS FEAR DEATH AND SO WILL I">
     <meta property="og:description" content="This is my flesh, can you see it move?">
     <meta property="og:image" content="https://null.skin/images/essay-images/birds-fear-death-and-so-will-i/nullbfd.png">
 </svelte:head>

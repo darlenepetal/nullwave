@@ -15,7 +15,7 @@
 			</a>
 		</div>
         <div class="row article-date">
-            June 23, 2025 TODO
+            June 24, 2025
         </div>
         <p></p>
         <iframe title="frame" style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=781553695/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://birdsfeardeath.bandcamp.com/album/livestream-death-compilation">livestream death compilation by birds fear death</a></iframe>

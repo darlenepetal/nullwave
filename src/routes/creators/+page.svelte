@@ -50,7 +50,7 @@
 		</div>
 	</div>
 </div>
-<!-- <div class="row border-head">
+<div class="row border-head">
 	<div class="d-flex col-3 align-self-center" style="padding:0;">
 		<a class="nav-item nav-link" href="/creators/cat">
 			<img class="creator-thumbnail-small" src="/images/creator-images/cat.png" alt="nullified mountain lion">
@@ -73,4 +73,4 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>

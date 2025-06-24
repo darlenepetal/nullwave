@@ -2,6 +2,31 @@
 	<title>ESSAYS</title>
 	<meta name="description" content="ESSAYS" />
 </svelte:head>
+<!-- <div class="row border-head">
+	<div class="col" style="padding: 0;">
+		<a class="nav-item nav-link" href="/essays/birds-fear-death-and-so-will-i">
+			<img class="article-thumbnail-small" src="/images/essay-images/birds-fear-death-and-so-will-i/nullbfd.png" alt="wireframe rendition of a bird">
+		</a>
+	</div>
+	<div class="col d-flex align-self-center essays">
+		<div class="container">
+			<div class="row essays-title">
+				<a class="nav-item nav-link variable-manrope" href="/essays/birds-fear-death-and-so-will-i">
+					BIRDS FEAR DEATH<br>AND SO WILL I
+				</a>
+			</div>
+			<div class="row essays-author">
+				<a class="nav-item nav-link variable-manrope" href="/creators/cat">
+					BY CAT
+				</a>
+			</div>
+			<div class="row essays-quote">
+				<br>
+				"This is my flesh, can you see it move?"
+			</div>
+		</div>
+	</div>
+</div> -->
 <div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/rules-for-pornsick-dovahkiin">

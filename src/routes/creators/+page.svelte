@@ -5,14 +5,14 @@
 <div class="row border-head">
 	<div class="d-flex col-3 align-self-center" style="padding:0;">
 		<a class="nav-item nav-link" href="/creators/dahlia-meat">
-			<img class="creator-thumbnail-small" src="/images/creator-images/dahlia-meat.png" alt="sigil">
+			<img class="creator-thumbnail-small" src="/images/creator-images/dahlia-meat.png" alt="nullified sigil">
 		</a>
 	</div>
 	<div class="d-flex col align-self-center creators">
 		<div class="container">
 			<div class="row creator-name">
 				<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
-				DAHLIA MEAT
+					DAHLIA MEAT
 				</a>
 			</div>
 			<div class="row creator-details">
@@ -50,3 +50,27 @@
 		</div>
 	</div>
 </div>
+<!-- <div class="row border-head">
+	<div class="d-flex col-3 align-self-center" style="padding:0;">
+		<a class="nav-item nav-link" href="/creators/cat">
+			<img class="creator-thumbnail-small" src="/images/creator-images/cat.png" alt="nullified mountain lion">
+		</a>
+	</div>
+	<div class="d-flex col align-self-center creators">
+		<div class="container">
+			<div class="row creator-name">
+				<a class="nav-item nav-link variable-manrope" href="/creators/cat">
+					CAT
+				</a>
+			</div>
+			<div class="row creator-details">
+				<a class="nav-item nav-link variable-manrope" href="/creators/cat">
+					she/her<br>Propagandist
+				</a>
+			</div>
+			<div class="row creator-quote">
+				We have a World to Win!
+			</div>
+		</div>
+	</div>
+</div> -->

@@ -112,19 +112,18 @@ body {
 }
 
 .article-title {
-    margin-top: 0.25em;
+    margin-top: 0.15em;
     font-size: clamp(22.4px, calc(0.7rem + 2.5vw), 39px);
     font-family: 'Manrope';
-    font-variation-settings: 'wght' 400;
+    font-variation-settings: 'wght' 200;
 }
 
 .article-author {
     font-size: clamp(17px, calc(0.5rem + 2vw), 30px);
     padding-left: 1em;
     padding-right: 1em;
-    margin-bottom: -0.1em;
-    margin-top: -0.5em;
-    font-variation-settings: 'wght' 300;
+    margin-top: -0.4em;
+    font-variation-settings: 'wght' 200;
 }
 
 .author {

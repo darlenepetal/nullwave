@@ -81,7 +81,6 @@
         <p>If you don’t already know, the way you kill a bobcat in a trap is to lower a little noose over its neck and strangle it. You don’t want bullet holes in the fur.</p>
         <p>I remember hesitating and not keeping the noose pulled tight enough, long enough, so the cat would wake up almost immediately and thrash in her cage. I remember how many times I fucked up tying my belt so it let loose from the ceiling fan. I remember how, when I came out to my parents, I tried to push my dad out of the way so I could reach for his gun. I remember washing the fur, shampooing it, conditioning it, so that way when the hide was sold it would sell for a high value.</p>
         <p>I have not been in a snuff film. I have no scars. I know my dad would prefer to hang me, to preserve the skin and forget the flesh.</p>
-        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
         <p>Scars are these tiny calcified masses, these numb little balls that rub against the rest of the hide and flesh. My lover has scars in her back from a past passion that I’ll rub almost daily to calm the surrounding tissue.</p>
         <p>“bodies” is a favorite that doesn’t talk about scars:</p>
         <i><p>I'm not scared to die
@@ -91,6 +90,7 @@
         <br>Whenever I wake up I feel like
         <br>Something should be missing</p></i>
         <p>So many of my memories flood over me, these little torrents of blood gushing out of the arteries. I try not to remember anymore, and in some ways I can’t realize just how much I forget.</p>
+        <img class="article-screenshot" src="/images/essay-images/birds-fear-death-and-so-will-i/bfd7null.png" alt="">
         <p>I try not to remember the bobcats, the deer, the elk, and I also forget important dates. I forget to start dinner, I forget to schedule my doctor appointments, I forget birthdays, I forget who’s turn it is to do what chore. I try to calcify my memories and stop them from flowing. I don’t know how to calm the surrounding tissue.</p>
         <p>“Anorexia song” speaks about the space between the scars:</p>
         <i><p>The angel that watches over me

@@ -74,3 +74,28 @@
 		</div>
 	</div>
 </div>
+TODO
+<div class="row border-head">
+	<div class="d-flex col-3 align-self-center" style="padding:0;">
+		<a class="nav-item nav-link" href="/creators/constance">
+			<img class="creator-thumbnail-small" src="/images/creator-images/constance.png" alt="nullified person on train tracks">
+		</a>
+	</div>
+	<div class="d-flex col align-self-center creators">
+		<div class="container">
+			<div class="row creator-name">
+				<a class="nav-item nav-link variable-manrope" href="/creators/constance">
+					CONSTANCE
+				</a>
+			</div>
+			<div class="row creator-details">
+				<a class="nav-item nav-link variable-manrope" href="/creators/constance">
+					her<br>Get a load of THIS clown.
+				</a>
+			</div>
+			<div class="row creator-quote">
+				We have a World to Win!
+			</div>
+		</div>
+	</div>
+</div>

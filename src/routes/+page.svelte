@@ -5,16 +5,16 @@
 <!-- <div class="row border-head article">
 	<div class="col">
 		<a class="nav-item nav-link" href="/essays/respect-the-grinch-2">
-			<img class="article-thumbnail" src="/images/essay-images/respect-the-grinch-2/rtg2000.png" alt="">
+			<img class="article-thumbnail" src="/images/essay-images/respect-the-grinch-2/rtg2000.png" alt="" style="margin-top:0.9rem;">
 		</a>
 	</div>
 	<div>
-		<div class="row article-title" style="margin-top:-0.1rem;">
+		<div class="row article-title" style="margin-top:0rem;">
 			<a class="nav-item nav-link variable-manrope" href="/essays/respect-the-grinch-2">
 				RESPECT THE GRINCH 2
 			</a>
 		</div>
-		<div class="row article-author">
+		<div class="row article-author" style="margin-bottom:0.1rem; margin-top:-0.7rem;">
 			<a class="nav-item nav-link variable-manrope" href="/creators/constance">
 				by constance p.
 			</a>

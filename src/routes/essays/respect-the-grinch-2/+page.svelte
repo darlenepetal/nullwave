@@ -1,22 +1,23 @@
 <svelte:head>
-	<title>RESPECT THE GRINCH 2</title>
-    <meta name="RESPECT THE GRINCH 2 by constance" content="TODO" />
-    <meta property="og:title" content="RESPECT THE GRINCH 2">
-    <meta property="og:description" content="This is my flesh, can you see it move?">
-    <meta property="og:image" content="https://null.skin/images/essay-images/respect-the-grinch-2/nullrtg2.png">
+	<title>respect the grinch 2</title>
+    <meta name="respect the grinch 2 by constance" content="TODO" />
+    <meta property="og:title" content="respect the grinch 2">
+    <meta property="og:description" content="there is no truth to a bonsai.">
+    <meta property="og:image" content="https://null.skin/images/essay-images/respect-the-grinch-2/rtg200.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <div class="title" style="padding-top:0.75rem;">RESPECT THE GRINCH 2
+        <div class="title" style="padding-top:0.75rem;">respect the grinch 2</div>
+        <div class="row author" style="margin-top:-0.8rem;">
 			<a class="nav-item nav-link variable-manrope" href="/creators/constance">
-				BY CONSTANCE
+				by constance p.
 			</a>
 		</div>
         <div class="row article-date">
             December 25, 2025
         </div>
-        <br>
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg212.png" alt="incomprehensible mess of white lines on black. baby grinch is there, kind of. you can see the ihop logo buried under all of it. hot air balloon. a bisected face.">
         <p>There's a guy on reddit, and his dad is fucking weird.</p>
         <p>fathers are so often afforded eccentricities, but this particular guy liked jim carrey's the grinch enough to write a sequel, with full certainty that if he just presents the pitch and script to the right people, production can begin and his vision could be realised.</p>
         <p>i'm not even sure i can call this eccentricity. i don't know what words can be applied to this man.</p>
@@ -25,7 +26,7 @@
         <p>jim carrey's the grinch is something i can't imagine wanting to watch again, but this man has clearly watched it through several times.</p>
         <p>perhaps every christmas? i can only grasp this habit from an observation that people tend to do these kinds of things with movies. this is typical human behavior. that is as far as my comprehension with this experience goes.</p>
         <p>when i was nineteen or something, my former friend (who i'm certain if he has his way will become a weird dad whose nearest and dearest strive to tolerate) was enthusiastic about celebrating christ mas. he was whooping on it, telling me about how the season will be jolly or some shit, and i felt a strange apprehension creep onto me. it's like the same grimace that's spread onto me from his passion for going on a trip to vancouver, this sort of "this Thing that i've planned will be amazing because i will see the look on these people's faces and they will smile because of what i have caused". this is the only framework through which christmas is real, to me.</p>
-        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg201.png" alt="jim carrey's the grinch with a surprised expression, rendered as white lines on black">
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg2001.png" alt="jim carrey's the grinch with a surprised expression, rendered as white lines on black">
         <p>jim carrey's the grinch gets huge pussy. massive labia spread on behalf of one absolute whoville freak. her entire character revolves around wanting to vacuum clean his bean. she practically gushes like a geyser as she moans the grinch's name in regular conversation and he hasn't said a single word to her. this is canon to the film. this is the only characterisation of her that i remember.</p>
         <p>also all the whos like, have snouts. prosthetic makeup on every single cast member (except for the ones that have to be fuckable—this includes the child).</p>
         <p>all this is before the cat in the hat unearthed burial graves and ate human flesh, before seuss' mangled wife could fend off that fucked up era of hollywood, when directors set their sights on entertaining swaths of families in theaters every christmas using the viscera of those unspoken for.</p>
@@ -79,26 +80,26 @@
         <p>okay alright hold on before i keep expounding i have to keep you updated on the plot. trust me it’s starting to matter less and less.</p>
         <p>the four realise the whole misplaced baby situation topic thing might be connected to hans, a guy living in grinchrael who grew up looking nothing like the others; no green, no hair, only a snout of similarity. mr. hands was supposed to be in whoville, and grimbley in grinchrael (…should i be referring to it by its actual name? because i didnt care to remember it). so they go to the residence of hands’ mother and father, eugene and jean.</p>
         <p>this script loves to make jokes about characters mishearing things. it’s the who’s on first bit, forever. eugene is the butt of that joke, repeatedly. but through that charade it’s finally brought together:</p>
-        <p>eugene and jean is the grinch’s parents. and the grinch’s blood name is Ethan.</p>
+        <p>eugene and jean are the grinch’s parents. and the grinch’s blood name is Ethan.</p>
         <p>the grinch is ethan. his name is ethan greeninch.</p>
         <p>Fucking… ethan stole christmas.</p>
         <p>he is sparsely referred to as the grinch from here on out. it only occurred to me just now that i can’t riff on grangled’s name anymore, i have to call him ethan.</p>
         <p>hello jj abrams it’s time to make a sequel to jim carrey’s the grinch. he’s ethan and we’re ready for filming. his name is ethan and he’s bouncing off the fucking walls about it. he’s in absolute ecstasy to be fitting into this cave-dirt family so well.</p>
         <p>i have to imagine this hole in the wall is a fucking mobile trailer home, now. i can’t get that out of my mind. grinchrael is a trailer park. it explains everything. that’s why it’s fucking like that.</p>
-        <p>Grinch: "Please, let's take a walk down, I'm way too nervous to just sit around all day, plus I just want to go down and check out the balloon. Make sure nobody has messed with it.”</p>
-        <p>Frank: "I have to say, that's one thing with this village, as cranky as these people are, nobody would touch anything on your balloon. Everyone totally respects other people's property; it's always been that way.”</p>
+        <p style="padding-top:2rem;">Grinch: "Please, let's take a walk down, I'm way too nervous to just sit around all day, plus I just want to go down and check out the balloon. Make sure nobody has messed with it.”</p>
+        <p style="padding-bottom:3rem;">Frank: "I have to say, that's one thing with this village, as cranky as these people are, nobody would touch anything on your balloon. Everyone totally respects other people's property; it's always been that way.”</p>
         <p>this is the sequel to the grinch stole christmas. this is where we’re at. Ethan Respects Private Property. Jim Carrey Family Values. we’re still going. i’m pretty sure bob starts drinking while writing.</p>
-        <p>Frank: "Anybody ready for some wine?"</p>
+        <p style="padding-top:3rem;">Frank: "Anybody ready for some wine?"</p>
         <p>Susan: "Don't you think it's a little early?"</p>
         <p>Martha: "NOPE"</p>
         <p>Grinch: "NOPE"</p>
         <p>Frank: "NOPE"</p>
-        <p>Susan: "Okay, I'm in”</p>
+        <p style="padding-bottom:2rem;">Susan: "Okay, I'm in”</p>
         <p>that sled hill simile i made a while back? we’re returning to that for just a second.</p>
         <p>there’s a certain lurch in downwards momentum that, when applied just right, localises entirely in my grundle. this is that part of the hill. it’s like the world is pulling you down now. it cannot be swayed. it is taking you down with it. apparently my center of mass in these physics equations is directly on the taint, because it bears all of the gravity. the worst ex i’ve ever had (that former friend of mine) would do this on hills in his car and it is the closest we ever had to any kind of genital stimulation, it was through fucking car ramp proxy. just an anecdote i felt like sharing. we’re getting fucking crunked. do i delete this paragraph? HO HO HO.</p>
         <p>grinch and frank look out the window to see if hans is coming.</p>
         <p>Oh, shit, sorry. ethan and frank walk to the window. and ethan just fucking slaps frank in the back of the head. outright bare palm to skull impact.</p>
-        <p>Susan: "I don't know about you guys but I'm not even hungry"</p>
+        <p style="padding-top:2rem;">Susan: "I don't know about you guys but I'm not even hungry"</p>
         <p>Martha: "Me neither"</p>
         <p>Grinch: "Any leftover ham? A ham sandwich might hit the spot for me"</p>
         <p>Frank: "Why don't we just have some of Martha's Whofish salad (Everyone yells out Whonafish) Sorry, Whooooonaaaafish and some snacks or something"</p>
@@ -108,7 +109,7 @@
         <p>Grinch: "What I meant was, oh what a great idea"</p>
         <p>Grinch gets up to take a peek out the front window, walks behind Frank and slaps him in the back of the head</p>
         <p>Frank chuckling says: "What did I do?"</p>
-        <p>Grinch: "I'm sorry, did my hand accidently hit your head?”</p>
+        <p style="padding-bottom:2rem;">Grinch: "I'm sorry, did my hand accidently hit your head?”</p>
         <p>reading this made me feel like an irate video game reviewer going into a meltdown. he just fucking slaps him in the head and ohoh now thats a funny joke, whats going on with ya? Oh well now the salad is done and we’re moving on No no NO hold on the mirth levels are at a serious high. what the FUCK! i included the whole ruminating on food bit in this quote to really communicate what reading this is like now. we’re seriously falling apart. is this the ideal family? is this a bonding gesture? he goes to peek in the window, but just slaps frank in the fucking head, this man he never knew until like yesterday, this day-old stranger turns to this outsider with a smirk like Heho now what’s this whole business about? does bob even know what the fuck he’s writing? is the author even fully cognizant of what is on this page? this sequence of events puts me at a loss for words, which is why i have to pump out my whole fucking chest and fill this paragraph with words. do you see why this drives me so? does it make sense why i’d deign write this whole thing in the first place? nobody can produce something like this on purpose. this sort of artifact cannot be invoked. it just Emerges. and i can’t just say “ethan slaps frank in the head and it’s treated like a joke” and have it sound like anything without this much context. like, what, is that some kind of sitcom bit? drank and thosh? what’s the big deal? and shit maybe on some level you still do feel that way! but like yeah no in fairness you’re probably nodding your head this whole time, like “yeah, uhuh, it’s funny, and this is certainly fertile grounds for your dance to run amuck”. and yeah, sure it is! but i cannot fucking stress how simple i am keeping this! this isn’t just punching mockery, this is fucking insanity! this is a crack in the mold! <span style="font-weight: 600">THIS IS A SHADOW CAST IN THE SILHOUETTE OF SOMETHING EVERYONE CHOOSES TO IGNORE</span></p>
         <p>Here is one type of divinity (setting aside my distaste for divinity itself, i’m only using this as an expression and i feel i must clarify so): One can run through the same grooves in a set path of one’s own design, eroding it into the perfect shape, tracing lines that conform to your very grip. you can recant the same chords, the same steps taken, the same walls that reverberate your focus, and you can create something to your very own design. like a shape whittled to perfection, guided by the grip of your focus as much as your mind, pure intentionality can be made manifest.</p>
         <p>this is not what produced bob ethan grinch 2. this is not that divinity.</p>

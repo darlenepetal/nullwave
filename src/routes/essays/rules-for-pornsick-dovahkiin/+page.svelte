@@ -8,7 +8,7 @@
 <div class="row border-head">
     <div class="article article-body">
         <p></p>
-        <div class="title" style="padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</div>   
+        <div class="title" style="padding-top:0.75rem;">RULES FOR PORNSICK DOVAHKIIN</div>
         <div style="margin:0.95rem;margin-top:-0.8rem;font-weight:400;font-size:1.6rem;"><i>A GUIDE</i></div>
         <div class="row author">
 			<a class="nav-item nav-link variable-manrope" href="/creators/tess">

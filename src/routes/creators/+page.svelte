@@ -74,8 +74,7 @@
 		</div>
 	</div>
 </div>
-TODO
-<div class="row border-head">
+<!-- <div class="row border-head">
 	<div class="d-flex col-3 align-self-center" style="padding:0;">
 		<a class="nav-item nav-link" href="/creators/constance">
 			<img class="creator-thumbnail-small" src="/images/creator-images/constance.png" alt="nullified person on train tracks">
@@ -85,17 +84,17 @@ TODO
 		<div class="container">
 			<div class="row creator-name">
 				<a class="nav-item nav-link variable-manrope" href="/creators/constance">
-					CONSTANCE
+					constance p.
 				</a>
 			</div>
 			<div class="row creator-details">
 				<a class="nav-item nav-link variable-manrope" href="/creators/constance">
-					her<br>Get a load of THIS clown.
+					her<br>noospherically objectified
 				</a>
 			</div>
 			<div class="row creator-quote">
-				We have a World to Win!
+				light bouncing off tha pie moon. you love me
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->

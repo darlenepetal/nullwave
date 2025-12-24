@@ -115,7 +115,7 @@ body {
     margin-top: 0.15em;
     font-size: clamp(22.4px, calc(0.7rem + 2.5vw), 39px);
     font-family: 'Manrope';
-    font-variation-settings: 'wght' 200;
+    font-variation-settings: 'wght' 300;
 }
 
 .article-author {
@@ -124,7 +124,7 @@ body {
     padding-right: 1em;
     margin-top: -0.3em;
     margin-bottom: -0.1em;
-    font-variation-settings: 'wght' 200;
+    font-variation-settings: 'wght' 300;
 }
 
 .line {

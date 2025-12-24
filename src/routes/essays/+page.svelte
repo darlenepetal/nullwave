@@ -2,6 +2,31 @@
 	<title>ESSAYS</title>
 	<meta name="description" content="ESSAYS" />
 </svelte:head>
+<!-- <div class="row border-head">
+	<div class="col" style="padding: 0;">
+		<a class="nav-item nav-link" href="/essays/respect-the-grinch-2">
+			<img class="article-thumbnail-small" src="/images/essay-images/respect-the-grinch-2/rtg2000.png" alt="wireframe rendition of the grinch">
+		</a>
+	</div>
+	<div class="col d-flex align-self-center essays">
+		<div class="container">
+			<div class="row essays-title">
+				<a class="nav-item nav-link variable-manrope" href="/essays/respect-the-grinch-2">
+					respect the grinch 2
+				</a>
+			</div>
+			<div class="row essays-author">
+				<a class="nav-item nav-link variable-manrope" href="/creators/constance">
+					by constance p.
+				</a>
+			</div>
+			<div class="row essays-quote">
+				<br>
+				"i don’t even know what to say to you. your dad is fucked up, dude. i’m fucked up, dude."
+			</div>
+		</div>
+	</div>
+</div> -->
 <div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/birds-fear-death-and-so-will-i">

@@ -2,8 +2,8 @@
 	<title>respect the grinch 2</title>
     <meta name="respect the grinch 2 by constance" content="TODO" />
     <meta property="og:title" content="respect the grinch 2">
-    <meta property="og:description" content="there is no truth to a bonsai.">
-    <meta property="og:image" content="https://null.skin/images/essay-images/respect-the-grinch-2/rtg200.png">
+    <meta property="og:description" content="i don’t even know what to say to you. your dad is fucked up, dude. i’m fucked up, dude.">
+    <meta property="og:image" content="https://null.skin/images/essay-images/respect-the-grinch-2/rtg2000.png">
 </svelte:head>
 <div class="row border-head">
     <div class="article article-body">
@@ -158,27 +158,28 @@
         <p>i think i was like six years old or something when big brother would shut me up with <span style="font-weight: 600">“Who cares?”</span> or whatever other variations. that still echoes. when i say it, when my voice sounds like my brother’s, i’m sometimes responded to with I care. and i (he) never really have a response to that. caring was never the point.</p>
         <p>do you mind if i refer to this “you” as ethan? don’t worry about it. it clearly only has bearing on myself.</p>
         <p>you’re not going to be satisfied with this meal. if you ordered a meal. rhetorical carbohydrates aren’t going to build up to anything. i can’t give you what you want. you can’t give me what i want. if the point of this trip to ihop with ethan was to connect, this whole bit was doomed from the start. it’s just not feasible.</p>
-        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg209.png" alt=" rendered as white lines on black">
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/pickle01.gif" alt=" rendered as white lines on black">
         <p>…no. i have to account for the possibility that you could be chewing into good cooking. if i don’t consider a reality where ethan is satisfied and wants more from me, i’m just not being smart. ethan could be in love with me.</p>
         <p>that does nothing for me.</p>
         <p>I’m The Fucking Grinch, Too. okay? it was me the whole time. i’ll peel my face off or perhaps unclasp a hatch and reveal knotted green fur with pomeranian-style crusty shit eyes. my heart hasn’t budged a fucking inch and i am absolutely flaccid about it.</p>
         <p>this whole article before we came here was written for nullwave. it was accepted, but later denied. i didn’t put enough of myself in it. my menstrual blood wasn’t mixed in the soda fountain. i honestly no longer give a shit about anything i scatted for bob’s sonata. i was too silly, too cynical, too guarded—these are my own words. i didn’t want to take a single step closer to you because nobody should see the trash heap inside krumpitt. i decided for you, before you could even blink, that you wouldn’t smell the cum pit.</p>
         <p>i fucking hate christmas. and i’ve never been impressed by your holiday cheers. your gifts that you use to bare your souls, your group hugs and poetry to soothe your aching minds. at best, it passes through me like piss off the cliff. it was never my domain.</p>
         <p>i’m pretty sure jim carrey grinch made presents as a child in school and they were laughed at or regarded as weird and shitty, and that like, made him isolate himself and shit. martha 100% fetishised him and wanted to smuckle everything that had his whogrease left over, even as a child, so really the grounds for allegory are ripe. fuck it all.</p>
-        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg210.png" alt=" rendered as white lines on black">
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/pickle02.gif" alt=" rendered as white lines on black">
         <p>the only way for the grinch to move on is to integrate himself back into whociety. to be like who is to become ethan. swapped like goo. speak no heathen. i gave you the green inch, and i was stopped and asked for the wean mile. is this pornographic to you?</p>
         <p>the whos were always ready to accept a kind grinch. they’re ready to accept a placid grinch, even appreciate him. kids are cruel, wack. the bugs crawling through the fur can be washed off, but they’ve laid eggs and will always come back. you’ll dance with me by the fire, and the only one keeping me away in the dark is myself.</p>
         <p>it’s not deliberate. it’s no accident, either. there is no way to formulate why i don’t dance. i don’t dislike you. i don’t even have the spite necessary to hate this. to assign blame is to be decimated into meal.</p>
         <p>you can imagine any ending you want for the grinch. he could become ethan. he could die bitter. he could calcify, wisen up, move to some other phase of denial or accept his role and erode beyond what emotion can convey. he could run away forever.</p>
         <p>the fury’s gone and done. but my place has never changed. one day, the clown paint materialised on my face, and washing it off has been an exercise in dishonesty and futility.</p>
         <p>i flipped my shit when this wasn’t published. my brain did a practiced backflip the likes i haven’t seen in almost a decade. my psychoclit got tweaked so hard i was ralphing up dust and slapping the floor like an ape. completely swamped with indistinguishable and inutterable tapioca i kept all to myself. i was pimped full of grinch serum.</p>
-        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/rtg211.png" alt=" rendered as white lines on black">
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/pickle03.gif" alt=" rendered as white lines on black">
         <p>i can’t stand the sound of my own voice, dude. i understand you love me but i don’t let myself approach anything like this. a dent has been kicked into me in the same spot countless times and it will not be undone. i don’t even know if i can forgive myself for creating an ethan here and pulling you into this whole dialogue to begin with.</p>
         <p>is this milk wholesome and good-for-the-bones? whatever. i’m just the broth, brother.</p>
         <p>is it better this article was smothered for a bit, is there benefit that this section gurgled out in froth? i don’t know, but i am compelled to “finish” this work. completing my bob-ditty was already like pulling teeth. when the spotlight turns to me, and the only lens worth focusing is my self, i can’t bring myself to do it.</p>
         <p>have i grown in face of this adversity, having taken ethan out to ihop? that’s not a yes or no question. that is the only answer i will give.</p>
         <p>should this be published? whatever. you love me. you read this whole thing. i keep asking permission to drop the mike.</p>
         <p>is all i can express how little i express? have i truly shunned the momthtern star? it rips the skin to answer. gramping it wholigan style can’t satisfy me. gin the swipple won’t become farmers. meat discovers neat for nourishment whoney cannot provide. fuck me and nothing comes. my round violet nose-noggin will slosh and wash. i want to be done. i want the gornographicians to nod their head and let me skip the rake.</p>
+        <img class="article-screenshot" src="/images/essay-images/respect-the-grinch-2/pickle04.gif" alt=" rendered as white lines on black">
         <p>is this progress? press my gros and turnt no apple. i’m fuckin outta here</p>
         <div class="line"></div>
         <div style="padding-top:180rem;"></div>

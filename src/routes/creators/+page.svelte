@@ -74,7 +74,7 @@
 		</div>
 	</div>
 </div>
-<!-- <div class="row border-head">
+<div class="row border-head">
 	<div class="d-flex col-3 align-self-center" style="padding:0;">
 		<a class="nav-item nav-link" href="/creators/constance">
 			<img class="creator-thumbnail-small" src="/images/creator-images/constance.png" alt="nullified person on train tracks">
@@ -97,4 +97,4 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>

@@ -2,7 +2,7 @@
 	<title>NULLWAVE</title>
 	<meta name="description" content="HOME" />
 </svelte:head>
-<!-- <div class="row border-head article">
+<div class="row border-head article">
 	<div class="col">
 		<a class="nav-item nav-link" href="/essays/respect-the-grinch-2">
 			<img class="article-thumbnail" src="/images/essay-images/respect-the-grinch-2/rtg2000.png" alt="" style="margin-top:0.9rem;">
@@ -20,8 +20,8 @@
 			</a>
 		</div>
 	</div>
-</div> -->
-<div class="row border-head article">
+</div>
+<!-- <div class="row border-head article">
 	<div class="col">
 		<a class="nav-item nav-link" href="/essays/birds-fear-death-and-so-will-i">
 			<img class="article-thumbnail" src="/images/essay-images/birds-fear-death-and-so-will-i/nullbfd.png" alt="a dead bird held horizontally in a glove, outside. you can see the horizon line. everything is white lines on black, blending into the website">
@@ -39,4 +39,4 @@
 			</a>
 		</div>
 	</div>
-</div>
+</div> -->

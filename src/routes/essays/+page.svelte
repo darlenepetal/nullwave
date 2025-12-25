@@ -2,7 +2,7 @@
 	<title>ESSAYS</title>
 	<meta name="description" content="ESSAYS" />
 </svelte:head>
-<!-- <div class="row border-head">
+<div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/respect-the-grinch-2">
 			<img class="article-thumbnail-small" src="/images/essay-images/respect-the-grinch-2/rtg2000.png" alt="wireframe rendition of the grinch">
@@ -26,7 +26,7 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 <div class="row border-head">
 	<div class="col" style="padding: 0;">
 		<a class="nav-item nav-link" href="/essays/birds-fear-death-and-so-will-i">

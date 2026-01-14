@@ -1,6 +1,8 @@
 <svelte:head>
 	<title>ESSAYS</title>
 	<meta name="description" content="ESSAYS" />
+	<meta property="og:title" content="ESSAYS">
+    <meta property="og:description" content="essays we've published">
 </svelte:head>
 <div class="row border-head">
 	<div class="col" style="padding: 0;">

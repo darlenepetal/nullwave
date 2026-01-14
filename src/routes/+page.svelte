@@ -1,6 +1,7 @@
 <svelte:head>
 	<title>NULLWAVE</title>
 	<meta name="description" content="HOME" />
+	<meta property="og:image" content="https://null.skin/images/essay-images/respect-the-grinch-2/rtg2000.png">
 </svelte:head>
 <div class="row border-head article">
 	<div class="col">

@@ -17,7 +17,7 @@
 			</div>
 			<div class="row creator-details">
 				<a class="nav-item nav-link variable-manrope" href="/creators/dahlia-meat">
-					ANY PRONOUNS<br>YOU ALREADY KNOW
+					WHATEVER<br>YOU ALREADY KNOW
 				</a>
 			</div>
 			<div class="row creator-quote">
